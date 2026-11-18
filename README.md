@@ -29,7 +29,9 @@ scripts/
 
 Categories: `aggressive`, `wizard`, `urban`, `contest`, `movies` (full-length
 films). Contest coverage has its own category (Troy, 2026-11-18); do not use
-the `contest` tag — the category covers it.
+the `contest` tag — the category covers it. Movies has no strict length
+cutoff: anything longer than a short "section" or "edit" belongs there
+(Troy, 2026-11-18).
 
 Tags: `street`, `park`, `vert`, `mushroom`, `big-wheel`, `documentary`,
 `edit`. (`vlog`, `review`, `tutorial` are retired — those videos are excluded
