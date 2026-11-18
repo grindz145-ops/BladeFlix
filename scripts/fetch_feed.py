@@ -1,0 +1,161 @@
+#!/usr/bin/env python3
+"""BladeFlix feed updater.
+
+Reads data/channels.json, fetches each channel's YouTube RSS feed
+(no API key needed), and appends videos that are not already in
+data/videos.json, data/pending.json or data/rejected.json to
+data/pending.json — the curation queue. Nothing goes live
+automatically; a human moves approved items from pending.json to
+videos.json with tags, and puts rejected video IDs in
+data/rejected.json (a plain list of video IDs) so they are never
+re-queued.
+
+Idempotent: running it twice in a row adds nothing the second time.
+Safe to run on a schedule (e.g. daily cron).
+
+Channel IDs live in channels.json. To resolve a new @handle to its
+channel ID: yt-dlp --print "%(channel_id)s" --playlist-end 1
+https://www.youtube.com/<handle>/videos
+
+Usage:
+    python3 scripts/fetch_feed.py
+"""
+
+import json
+import sys
+import urllib.request
+import urllib.error
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+CHANNELS_PATH = ROOT / "data" / "channels.json"
+VIDEOS_PATH = ROOT / "data" / "videos.json"
+PENDING_PATH = ROOT / "data" / "pending.json"
+REJECTED_PATH = ROOT / "data" / "rejected.json"
+
+RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+USER_AGENT = "BladeFlix feed updater"
+TIMEOUT_SECONDS = 20
+
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
+YT_NS = "{http://www.youtube.com/xml/schemas/2015}"
+
+
+def load_json(path, default):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return default
+    except json.JSONDecodeError as exc:
+        print(f"ERROR: {path} is not valid JSON: {exc}", file=sys.stderr)
+        raise
+
+
+def save_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def parse_feed(xml_text):
+    """Parse a YouTube channel RSS (Atom) feed into a list of entries.
+
+    Each entry: {"video_id": str, "title": str, "published": "YYYY-MM-DD"}.
+    Entries missing a video ID are skipped.
+    """
+    entries = []
+    root = ET.fromstring(xml_text)
+    for entry in root.findall(f"{ATOM_NS}entry"):
+        video_id_el = entry.find(f"{YT_NS}videoId")
+        title_el = entry.find(f"{ATOM_NS}title")
+        published_el = entry.find(f"{ATOM_NS}published")
+        if video_id_el is None or not video_id_el.text:
+            continue
+        published = ""
+        if published_el is not None and published_el.text:
+            published = published_el.text[:10]  # ISO datetime -> date
+        entries.append({
+            "video_id": video_id_el.text.strip(),
+            "title": title_el.text.strip() if title_el is not None and title_el.text else "",
+            "published": published,
+        })
+    return entries
+
+
+def fetch_channel_feed(channel_id):
+    """Fetch one channel's RSS feed over HTTPS. Returns raw XML text."""
+    url = RSS_URL.format(channel_id=channel_id)
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as resp:
+        return resp.read().decode("utf-8")
+
+
+def main():
+    channels = load_json(CHANNELS_PATH, [])
+    videos = load_json(VIDEOS_PATH, [])
+    pending = load_json(PENDING_PATH, [])
+    rejected = load_json(REJECTED_PATH, [])
+
+    known_ids = {v.get("video_id") for v in videos}
+    known_ids |= {p.get("video_id") for p in pending}
+    known_ids |= set(rejected)
+
+    fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    added = 0
+    skipped_no_id = []
+    failed = []
+
+    for channel in channels:
+        name = channel.get("name", "?")
+        channel_id = channel.get("channel_id")
+        if not channel_id:
+            skipped_no_id.append(name)
+            continue
+        try:
+            entries = parse_feed(fetch_channel_feed(channel_id))
+        except (urllib.error.URLError, ET.ParseError, TimeoutError) as exc:
+            failed.append(f"{name}: {exc}")
+            continue
+
+        for entry in entries:
+            video_id = entry["video_id"]
+            if video_id in known_ids:
+                continue
+            # Contest videos get their own category (Troy, 2026-11-18).
+            title_lower = entry["title"].lower()
+            if any(k in title_lower for k in ("contest", "championship", "invitational", "classic", " cup ")):
+                suggested_category = "contest"
+            else:
+                suggested_category = channel.get("default_category", "aggressive")
+            pending.append({
+                "video_id": video_id,
+                "title": entry["title"],
+                "channel": name,
+                "channel_handle": channel.get("handle"),
+                "published": entry["published"],
+                "suggested_category": suggested_category,
+                "tags": [],
+                "fetched_at": fetched_at,
+            })
+            known_ids.add(video_id)
+            added += 1
+
+    # Newest first, so the queue reads like a feed.
+    pending.sort(key=lambda p: p.get("published", ""), reverse=True)
+    save_json(PENDING_PATH, pending)
+
+    print(f"Channels checked: {len(channels) - len(skipped_no_id) - len(failed)}")
+    if skipped_no_id:
+        print(f"Skipped (no channel_id in channels.json): {', '.join(skipped_no_id)}")
+    if failed:
+        print(f"Failed to fetch: {'; '.join(failed)}")
+    print(f"New videos queued in pending.json: {added}")
+    print(f"Pending queue size: {len(pending)}")
+
+
+if __name__ == "__main__":
+    main()

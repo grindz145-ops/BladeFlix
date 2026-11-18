@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BladeFlix — Aggressive Rollerblading Videos</title>
+  <meta name="description" content="BladeFlix: a curated feed of the newest aggressive rollerblading, wizard skating and urban skating videos — plus a full-length movie library.">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="logo-link" href="#" aria-label="BladeFlix home">
+        <img class="logo" src="images/logo.png" alt="BladeFlix">
+      </a>
+      <nav class="tabs" aria-label="Categories">
+        <button class="tab active" data-category="all">All</button>
+        <button class="tab" data-category="aggressive">Aggressive</button>
+        <button class="tab" data-category="wizard">Wizard</button>
+        <button class="tab" data-category="urban">Urban</button>
+        <button class="tab" data-category="contest">Contest</button>
+        <button class="tab" data-category="movies">Movies</button>
+      </nav>
+      <div class="search-wrap">
+        <input id="search" type="search" placeholder="Search videos…" aria-label="Search videos">
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <section id="new-row" class="new-row" hidden>
+      <h2>New this week</h2>
+      <div id="new-grid" class="grid"></div>
+    </section>
+
+    <section class="filters">
+      <div id="tag-chips" class="tag-chips" aria-label="Filter by tag"></div>
+      <p id="result-count" class="result-count"></p>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>No videos match these filters.</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>BladeFlix is a curated index of rollerblading videos. All videos are embedded from YouTube and belong to their creators — click any card to watch, or follow the “Watch on YouTube” link to support the original channel.</p>
+  </footer>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" data-close aria-label="Close">&times;</button>
+      <div class="player-wrap">
+        <iframe id="player" src="" title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+      </div>
+      <h3 id="modal-title"></h3>
+      <p id="modal-meta"></p>
+      <a id="modal-link" href="#" target="_blank" rel="noopener">Watch on YouTube ↗</a>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
