@@ -57,11 +57,6 @@ html = """<style>""" + css + """</style>
   </header>
 
   <main class="main">
-    <section id="new-row" class="new-row" hidden>
-      <h2>New this week</h2>
-      <div id="new-grid" class="grid"></div>
-    </section>
-
     <section class="filters">
       <div id="tag-chips" class="tag-chips" aria-label="Filter by tag"></div>
       <p id="result-count" class="result-count"></p>

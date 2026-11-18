@@ -15,8 +15,6 @@ let activeTags = new Set();
 let searchQuery = "";
 
 const gridEl = document.getElementById("grid");
-const newRowEl = document.getElementById("new-row");
-const newGridEl = document.getElementById("new-grid");
 const tagChipsEl = document.getElementById("tag-chips");
 const resultCountEl = document.getElementById("result-count");
 const emptyEl = document.getElementById("empty");
@@ -31,14 +29,6 @@ function formatDate(iso, approx) {
   const d = new Date(iso + "T12:00:00"); // noon avoids TZ day shifts
   const s = d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
   return approx ? "~" + s : s;
-}
-
-function isNewThisWeek(iso) {
-  const published = new Date(iso + "T12:00:00");
-  const now = new Date();
-  const sevenDaysAgo = new Date(now);
-  sevenDaysAgo.setDate(now.getDate() - 7);
-  return published >= sevenDaysAgo && published <= now;
 }
 
 function thumbUrl(id) {
@@ -93,17 +83,6 @@ function render() {
   resultCountEl.textContent = filtered.length === total
     ? total + " videos"
     : filtered.length + " of " + total + " " + label;
-
-  // "New this week" shows only on the unfiltered All view.
-  const showNew = activeCategory === "all" && activeTags.size === 0 && !searchQuery;
-  const fresh = videos.filter(v => isNewThisWeek(v.published));
-  if (showNew && fresh.length > 0) {
-    newRowEl.hidden = false;
-    newGridEl.innerHTML = fresh.map(cardHtml).join("");
-  } else {
-    newRowEl.hidden = true;
-    newGridEl.innerHTML = "";
-  }
 }
 
 function renderTagChips() {
