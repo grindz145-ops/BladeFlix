@@ -43,9 +43,10 @@ wizard / urban videos older than 12 months do not belong in `videos.json` or
 Troy curates personally until the feed is well defined: high signal-to-noise,
 nothing goes live without his approval. **Full edits only** — no vlogs,
 tutorials/how-tos, reviews, podcasts, or topical/discussion videos about
-rollerblading, at least for now. Contest coverage is kept (Troy, 2026-11-18);
-documentaries are still undecided. Other borderline categories get run by
-Troy for a yes/no.
+rollerblading, at least for now. Contest coverage is kept in its own
+category and documentaries are in (Troy, 2026-11-18). Vintage reuploads
+are an open question — Troy is on the fence about one of them. Other
+borderline categories get run by Troy for a yes/no.
 
 1. **Fetch.** Run the updater (or let the schedule run it):
    ```
@@ -93,7 +94,9 @@ first. Every source channel is also in `data/channels.json` so the daily
 updater checks it for new edits — with one deliberate exception: VICE
 Sports (source of the "Who Killed Rollerblading?" documentary) is a
 general sports channel, so adding it would flood the queue with
-non-blading videos; it stays in `sources.json` only. The two roundup shows
+non-blading videos; it stays in `sources.json` only. HJJ (the STEEZ video
+game channel, referenced once by TWIB for a game trailer) is the same kind
+of exception: recorded in `sources.json`, not in `channels.json`. The two roundup shows
 themselves are not in `channels.json`: their uploads are news roundups,
 not edits, so the updater would only queue items Troy would reject.
 

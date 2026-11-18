@@ -327,5 +327,138 @@
     "handle": "@UNATHITRIBE",
     "name": "UNATHI TRIBE",
     "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC0jgal54r9HddjaZTRRHtEw",
+    "default_category": "aggressive",
+    "handle": "@UndercoverWheels",
+    "name": "Undercover Wheels",
+    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC11g5Nlag47inKA2eliwmxA",
+    "default_category": "aggressive",
+    "handle": "@BrisbaneCitySkate",
+    "name": "Brisbane City Skate",
+    "notes": "Referenced by This Week in Blade (2026-04-20); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCFKjJzOPk-Ggw4imAaEdy4g",
+    "default_category": "aggressive",
+    "handle": "@angledsouls",
+    "name": "Angled Souls",
+    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCqB-_NI6QO6kM-spL6UrhJg",
+    "default_category": "aggressive",
+    "handle": "@Shintaro_Nakayama",
+    "name": "versclub",
+    "notes": "Referenced by This Week in Blade (2026-01-12); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCKhiamCHH3febHhiYRrNq8g",
+    "default_category": "aggressive",
+    "handle": "@Inferno_Skate",
+    "name": "Inferno Skate",
+    "notes": "Referenced by This Week in Blade (2026-02-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC3GqSMBn9NC2iBQvHOB9eXA",
+    "default_category": "aggressive",
+    "handle": "@HawkeTrackler",
+    "name": "Hawke Trackler",
+    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCn63T3znFYTPHRScjWePHCg",
+    "default_category": "aggressive",
+    "handle": "@whatswrong_withme",
+    "name": "Jordan Williams",
+    "notes": "Referenced by This Week in Blade (2026-01-05); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCcPta_VvXg6r7MX0cY7FbQw",
+    "default_category": "aggressive",
+    "handle": "@echoskatesofficial",
+    "name": "Echo Skates",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC6D5V5K05-yRUKWKG1gOSIg",
+    "default_category": "aggressive",
+    "handle": "@CougarSkates-m7g",
+    "name": "Cougar Skates",
+    "notes": "Referenced by This Week in Blade (2026-03-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCRzd5SM2jNcSSzkpzxB2Hiw",
+    "default_category": "aggressive",
+    "handle": "@burzatorden",
+    "name": "Burza Torden",
+    "notes": "Referenced by This Week in Blade (2026-02-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCdeCrclssdxhCd8eENfbtuQ",
+    "default_category": "aggressive",
+    "handle": "@krispiess",
+    "name": "krispiess",
+    "notes": "Referenced by This Week in Blade (2026-02-16); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC6ee9oeaNJUY14n7ZAB7X_w",
+    "default_category": "aggressive",
+    "handle": "@peoplesstudio",
+    "name": "Peoples Studio",
+    "notes": "Referenced by This Week in Blade (2026-04-20); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCghezqxibnd-HhkggSgu6VA",
+    "default_category": "aggressive",
+    "handle": "@SignatureSeries",
+    "name": "Signature Series",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCzwyucj22NfHTqZgaG-Gx8w",
+    "default_category": "aggressive",
+    "handle": "@MoonshineUHMW",
+    "name": "Moonshine UHMW",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCu_joyJOX-daVxYFydIXVuw",
+    "default_category": "aggressive",
+    "handle": "@kizerframes",
+    "name": "Kizer Frames",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UClbdLNIymQiJKgUvbtYELZg",
+    "default_category": "aggressive",
+    "handle": "@Contempoline",
+    "name": "Contempoline",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-12-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCpTlBL4Q6djTey4uDBEvRIg",
+    "default_category": "aggressive",
+    "handle": "@julianbah",
+    "name": "Julian Bah",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCyYhTucqtq5yC7ayyY6uSXw",
+    "default_category": "aggressive",
+    "handle": "@travisrhodes1989",
+    "name": "Travis Rhodes",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCZ9FKBOG2WSs6Gns8UQu9pA",
+    "default_category": "aggressive",
+    "handle": "@codydavidlampman",
+    "name": "Cody Lampman",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
   }
 ]
