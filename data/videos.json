@@ -258,6 +258,17 @@
   "channel_handle": "@PerDiems"
  },
  {
+  "category": "aggressive",
+  "channel": "Faction Skate Company",
+  "published": "2026-09-26",
+  "tags": [
+   "street"
+  ],
+  "title": "Hood Panda Breaking in some Stuff",
+  "video_id": "JCLmyzK0oQc",
+  "channel_handle": "@factionskatecompany4016"
+ },
+ {
   "category": "urban",
   "channel": "Powerslide",
   "published": "2026-09-25",
@@ -845,6 +856,17 @@
  },
  {
   "category": "aggressive",
+  "channel": "Faction Skate Company",
+  "published": "2026-04-06",
+  "tags": [
+   "street"
+  ],
+  "title": "Hood Panda/ Matt Lyon : It\u2019s Not A Phase",
+  "video_id": "JiGXlS4fk6Q",
+  "channel_handle": "@factionskatecompany4016"
+ },
+ {
+  "category": "aggressive",
   "channel": "USD Skates",
   "published": "2026-04-05",
   "tags": [],
@@ -881,6 +903,17 @@
   "title": "Nicoly Machado - Street session II",
   "video_id": "l_DIhqRWX84",
   "channel_handle": "@usdskatesofficial"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Faction Skate Company",
+  "published": "2026-03-27",
+  "tags": [
+   "street"
+  ],
+  "title": "Jon Fromm: Fever Dream",
+  "video_id": "7bJHNjJ_7XM",
+  "channel_handle": "@factionskatecompany4016"
  },
  {
   "category": "aggressive",
@@ -959,6 +992,17 @@
   "title": "Shadows Cast Longer @ Sunset | Alex Broskow | THEM SKATES",
   "video_id": "ZXBd3HmKirk",
   "channel_handle": "@themskates"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Faction Skate Company",
+  "published": "2026-02-22",
+  "tags": [
+   "street"
+  ],
+  "title": "Aniek Kerkhofs \u2013 Blue Waves",
+  "video_id": "tg5P-QMHfl4",
+  "channel_handle": "@factionskatecompany4016"
  },
  {
   "category": "wizard",
@@ -1309,6 +1353,17 @@
   ],
   "title": "MOUNT AVERAGE",
   "video_id": "fs8B5_FeaVc"
+ },
+ {
+  "category": "movies",
+  "channel": "Faction Skate Company",
+  "published": "2024-09-08",
+  "tags": [
+   "edit"
+  ],
+  "title": "Faction Skate Company Presents TACTICS 2024",
+  "video_id": "VIdWl8bvdwc",
+  "channel_handle": "@factionskatecompany4016"
  },
  {
   "category": "movies",
