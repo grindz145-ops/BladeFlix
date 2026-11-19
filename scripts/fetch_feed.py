@@ -45,8 +45,11 @@ CUTOFF_DATE = "2025-11-19"
 
 # Full edits only (Troy, 2026-11-18): skip tutorials, podcasts,
 # reviews, interviews, vlogs, unboxings and beginner guides.
+# Extended 2026-11-19 for Mushroom Blading / Flow Skate noise: gear
+# revisits, commentary tracks, gear tests, lessons, manifestos.
 NON_EDIT_RE = re.compile(
-    r"how to|tutorial|podcast|unboxing|interview|\breview\b|vlog|beginner",
+    r"how to|tutorial|podcast|unboxing|interview|\breview\b|vlog|beginner"
+    r"|revisit|commentary|\btesting\b|\blesson\b|manifesto",
     re.IGNORECASE,
 )
 
@@ -54,8 +57,9 @@ NON_EDIT_RE = re.compile(
 # competition (Troy, 2026-11-19) — matched as a whole word so "company"
 # and "compilation" don't trigger it. Compound tags like "bladingcup"
 # and "skatecomp" have no word boundary, so they match as substrings.
+# "Grand Prix" is Sven Boekhorst's contest series (added 2026-11-19).
 CONTEST_RE = re.compile(
-    r"\b(contest|championship|champs|invitational|classic|comp|cup)s?\b"
+    r"\b(contest|championship|champs|invitational|classic|comp|cup|grand prix)s?\b"
     r"|bladingcup|skatecomp",
     re.IGNORECASE,
 )

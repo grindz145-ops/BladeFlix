@@ -373,7 +373,7 @@
   "handle": "@MushroomBlading",
   "channel_id": "UCGTDZcpOPYLYfUAGz4YdpXg",
   "default_category": "aggressive",
-  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21; confirmed as Canadian source (Brattey crew, Kamloops BC) 2026-11-19 at Troy's request",
   "first_seen": "2026-11-18",
   "videos_referenced": 1
  },
@@ -689,6 +689,78 @@
   "channel_id": "UCiwUpLaBVzm7fktnvN3r-VA",
   "default_category": "wizard",
   "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Flow Skate",
+  "handle": "@FlowSkate",
+  "channel_id": "UCUsSCs1s8a4UKmQ0KPQ2ShQ",
+  "default_category": "urban",
+  "first_referenced_by": "Canadian sources research 2026-11-19, added at Troy's request (formerly Shop Task, Shaun Unwin, Calgary)",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "CJ Wellsmore",
+  "handle": "@CJWellsmore",
+  "channel_id": "UCT4wQEc__FqtCOIvuWOLEqA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Added 2026-11-19 at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Plastic Pushers",
+  "handle": "@PlasticPushers",
+  "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Borklyn Zoo",
+  "handle": "@BorklynZoo",
+  "channel_id": "UCnI-UtGPH3cOn4j7sdc8voA",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Jo Zenk",
+  "handle": "@jozenk",
+  "channel_id": "UC9FKEIseZYSciqXY-0FFWag",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Blading Spain",
+  "handle": "@BladingSpain",
+  "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Sven Boekhorst",
+  "handle": "",
+  "channel_id": "UCmvgCTI2_GyciW3TCCBdAPw",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Flying Eagle Skates",
+  "handle": "@FlyingEagleSkates",
+  "channel_id": "UCL4rW_mq8WISalKX2__HukA",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
   "first_seen": "2026-11-19",
   "videos_referenced": 0
  }

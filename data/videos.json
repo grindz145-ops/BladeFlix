@@ -10,12 +10,39 @@
  },
  {
   "category": "aggressive",
+  "channel": "Unlabelled Girls",
+  "published": "2026-11-18",
+  "tags": [],
+  "title": "Marusya Shevchuk from Russia (Aggressive Inline Skating)",
+  "video_id": "YPkBAo-uESQ",
+  "channel_handle": "@unlabelledgirls"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Hedonskate",
+  "published": "2026-11-17",
+  "tags": [],
+  "title": "RAW Clips: Leszno 2012 Hedonskate Summer Tour (Montre, Bolino, Josh Glow and more)",
+  "video_id": "hk-YFcvEz98",
+  "channel_handle": "@hedonskate"
+ },
+ {
+  "category": "aggressive",
   "channel": "Ricardo Lino",
   "published": "2026-11-16",
   "tags": [],
   "title": "IT\u2019S TIME FOR A CHANGE",
   "video_id": "_YYae6p5ZLA",
   "channel_handle": "@ricardolino"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Shred City Skates",
+  "published": "2026-11-16",
+  "tags": [],
+  "title": "UNDERFEETED ft. Chris Pullar, Isaac Callen, Rob Kellet, Josh Budden, SJ Walker, Matt Timms, & others",
+  "video_id": "7ZE_zzvl4es",
+  "channel_handle": "@ShredCitySkatesKelvW"
  },
  {
   "category": "aggressive",
@@ -58,6 +85,15 @@
   "channel_handle": "@spookwackadoo"
  },
  {
+  "category": "contest",
+  "channel": "feet blading",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "Blading Cup 2026",
+  "video_id": "e1jCwTat4U8",
+  "channel_handle": "@feetblading"
+ },
+ {
   "category": "urban",
   "channel": "Powerslide",
   "channel_handle": "@powerslideinlineskates",
@@ -89,6 +125,15 @@
   "title": "BUTTERTV PRESENTS: Idronations 2026 - More Pizza Pasta & P-Rails",
   "video_id": "VwbyTLSQ39w",
   "channel_handle": "@BUTTERTV"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Hedonskate",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Old but Gold: Trash PARK (New Rokoko DVD Bonus)",
+  "video_id": "_pw2ORODHmg",
+  "channel_handle": "@hedonskate"
  },
  {
   "category": "aggressive",
@@ -623,6 +668,15 @@
  },
  {
   "category": "aggressive",
+  "channel": "Vankovtun",
+  "published": "2026-08-31",
+  "tags": [],
+  "title": "TROLLERBLADING [VANKOVTUN 2026]",
+  "video_id": "9O6KEOVEnV0",
+  "channel_handle": "@vankovtun"
+ },
+ {
+  "category": "aggressive",
   "channel": "Ghetto Community",
   "published": "2026-08-30",
   "tags": [
@@ -672,6 +726,15 @@
   "channel_handle": "@HawkeTrackler"
  },
  {
+  "category": "contest",
+  "channel": "Tom Moyse",
+  "published": "2026-08-16",
+  "tags": [],
+  "title": "Stuart Brattey Community Cup 2026 Rollerblading",
+  "video_id": "0E4OeNl6bZ0",
+  "channel_handle": "@TomMoyse"
+ },
+ {
   "category": "aggressive",
   "channel": "FR Skates",
   "published": "2026-08-15",
@@ -693,6 +756,24 @@
   "channel_handle": "@authenticrollerblade"
  },
  {
+  "category": "contest",
+  "channel": "Shred City Skates",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "BLADINGCUP ASIA '26 Extras",
+  "video_id": "Enr07T0aXxI",
+  "channel_handle": "@ShredCitySkatesKelvW"
+ },
+ {
+  "category": "contest",
+  "channel": "Shred City Skates",
+  "published": "2026-08-09",
+  "tags": [],
+  "title": "BLADINGCUP ASIA '26 Day 2 - Finals",
+  "video_id": "5d-wZVEkzps",
+  "channel_handle": "@ShredCitySkatesKelvW"
+ },
+ {
   "category": "aggressive",
   "channel": "DynoVfr",
   "published": "2026-08-07",
@@ -700,6 +781,15 @@
   "title": "Dyno Vfr 5 - a full rollerblades",
   "video_id": "2K6KA1QD_e4",
   "channel_handle": "@dynovfr"
+ },
+ {
+  "category": "contest",
+  "channel": "Shred City Skates",
+  "published": "2026-08-07",
+  "tags": [],
+  "title": "BLADING CUP ASIA '26, Day 1",
+  "video_id": "5kxGTbUA4Jg",
+  "channel_handle": "@ShredCitySkatesKelvW"
  },
  {
   "category": "aggressive",
@@ -718,6 +808,15 @@
   "title": "Dream - Morphology",
   "video_id": "ewg7VHZrrGc",
   "channel_handle": "@dreamurethane"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Hedonskate",
+  "published": "2026-08-02",
+  "tags": [],
+  "title": "ANTEK",
+  "video_id": "E30XuJ6MeW0",
+  "channel_handle": "@hedonskate"
  },
  {
   "category": "aggressive",
@@ -1033,6 +1132,15 @@
  },
  {
   "category": "aggressive",
+  "channel": "Vankovtun",
+  "published": "2026-05-03",
+  "tags": [],
+  "title": "VANKOVTUN x LAVASKATES [SIGNATURE SKATES PROMO] 2026",
+  "video_id": "Xz06Kc4H7tU",
+  "channel_handle": "@vankovtun"
+ },
+ {
+  "category": "aggressive",
   "channel": "Mushroom Blading",
   "published": "2026-05-01",
   "tags": [],
@@ -1143,6 +1251,15 @@
   "channel_handle": "@peoplesstudio"
  },
  {
+  "category": "contest",
+  "channel": "Shred City Skates",
+  "published": "2026-04-15",
+  "tags": [],
+  "title": "AUS World Skate Games, Melbourne 2026. Freestyle Inline #inlineskating",
+  "video_id": "_LKOCxAnmUY",
+  "channel_handle": "@ShredCitySkatesKelvW"
+ },
+ {
   "category": "aggressive",
   "channel": "Razors Skate Co.",
   "published": "2026-04-14",
@@ -1215,6 +1332,15 @@
   "title": "\"i flux with it\"",
   "video_id": "9kMwAOZUbLw",
   "channel_handle": "@tuskofficial_atl"
+ },
+ {
+  "category": "contest",
+  "channel": "Winterclash",
+  "published": "2026-03-29",
+  "tags": [],
+  "title": "Winterclash 2026 Official Aftermovie",
+  "video_id": "rptDWTCIiZs",
+  "channel_handle": "@winterclash_official"
  },
  {
   "category": "aggressive",
@@ -1349,6 +1475,15 @@
   "title": "RYAN PARKER - BT8",
   "video_id": "v3oTM8XOadQ",
   "channel_handle": "@usdskatesofficial"
+ },
+ {
+  "category": "contest",
+  "channel": "Shred City Skates",
+  "published": "2026-02-24",
+  "tags": [],
+  "title": "NZ Vert Champs 2026",
+  "video_id": "8Loo8lrlJIE",
+  "channel_handle": "@ShredCitySkatesKelvW"
  },
  {
   "category": "aggressive",
@@ -1750,6 +1885,15 @@
   "channel_handle": "@whatswrong_withme"
  },
  {
+  "category": "movies",
+  "channel": "Mesmer Skate Brand",
+  "published": "2025-12-23",
+  "tags": [],
+  "title": "CANTRIP JAZZ",
+  "video_id": "3PpuJdKqlzE",
+  "channel_handle": "@mesmerskatebrand7752"
+ },
+ {
   "category": "aggressive",
   "channel": "Rob Kellett",
   "published": "2025-12-22",
@@ -1843,6 +1987,15 @@
   "title": "Cody Lampman \u2726 Standard Skate Company",
   "video_id": "BsndcJN95oo",
   "channel_handle": "@StandardSkateCo"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Mesmer Skate Brand",
+  "published": "2025-11-28",
+  "tags": [],
+  "title": "SUNBATH",
+  "video_id": "L89f0-nzMpw",
+  "channel_handle": "@mesmerskatebrand7752"
  },
  {
   "category": "aggressive",
@@ -1977,6 +2130,33 @@
  },
  {
   "category": "movies",
+  "channel": "Mesmer Skate Brand",
+  "published": "2022-07-29",
+  "tags": [],
+  "title": "RV THERE YET ?!",
+  "video_id": "-vp4OV8Z540",
+  "channel_handle": "@mesmerskatebrand7752"
+ },
+ {
+  "category": "movies",
+  "channel": "Flow Skate",
+  "published": "2022-03-01",
+  "tags": [],
+  "title": "Get Lost In The Flow - Best Of 2021",
+  "video_id": "6o8SJOecmrg",
+  "channel_handle": "@FlowSkate"
+ },
+ {
+  "category": "movies",
+  "channel": "Mesmer Skate Brand",
+  "published": "2021-11-22",
+  "tags": [],
+  "title": "MESMER RISING",
+  "video_id": "2KckCNG19_o",
+  "channel_handle": "@mesmerskatebrand7752"
+ },
+ {
+  "category": "movies",
   "channel": "bacemint",
   "published": "2021-11-21",
   "tags": [
@@ -2025,6 +2205,14 @@
  },
  {
   "category": "movies",
+  "channel": "Blader Union",
+  "published": "2021-05-01",
+  "tags": [],
+  "title": "Matt Garrity Presents Pitcher Three (Inline Skating)",
+  "video_id": "wmzFflcALoM"
+ },
+ {
+  "category": "movies",
   "channel": "Thisissoul",
   "channel_handle": "@thisissoul",
   "published": "2019-03-06",
@@ -2033,5 +2221,22 @@
   ],
   "title": "Baking Cookies VHS - Angry Youth Cinema - Aggressive Inline Skating",
   "video_id": "OKE7DcNzIsI"
+ },
+ {
+  "category": "movies",
+  "channel": "Mushroom Blading",
+  "published": "2016-11-24",
+  "tags": [],
+  "title": "ZONE",
+  "video_id": "OqNE0tQnATc",
+  "channel_handle": "@mushroomblading"
+ },
+ {
+  "category": "movies",
+  "channel": "Colin Brattey",
+  "published": "2014-03-12",
+  "tags": [],
+  "title": "Fish 'n' Clips",
+  "video_id": "ntvx6WC6Ji0"
  }
 ]
