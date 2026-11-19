@@ -151,6 +151,28 @@ body {
 }
 .site-footer p { max-width: 720px; margin: 0 auto; color: var(--muted); font-size: 13px; }
 
+/* ---------- 1997 hit counter ---------- */
+.hit-counter {
+  margin-top: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.hit-counter-label {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 13px;
+  color: var(--muted);
+}
+.hit-counter-badge { height: 20px; width: auto; image-rendering: pixelated; }
+.site-footer p.retro-note {
+  margin-top: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 11px;
+  opacity: 0.7;
+}
+
 /* ---------- Modal ---------- */
 .modal { position: fixed; inset: 0; z-index: 50; display: flex; align-items: center; justify-content: center; padding: 16px; }
 .modal[hidden] { display: none; }
