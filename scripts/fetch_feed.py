@@ -13,6 +13,15 @@ re-queued.
 Idempotent: running it twice in a row adds nothing the second time.
 Safe to run on a schedule (e.g. daily cron).
 
+Intake filters (Troy's curation rules, 2026-11-18): the main feed is last
+12 months only, so entries published before CUTOFF_DATE are skipped
+unless the title looks like a full-length film (Movies library is
+exempt). Entries whose titles read as tutorials, podcasts, reviews,
+interviews, vlogs or unboxings are skipped — full edits only. Skipped
+entries are NOT added to rejected.json, so a future rule change can
+still surface them; entries Troy rejects by hand go in rejected.json
+and are never re-queued.
+
 Channel IDs live in channels.json. To resolve a new @handle to its
 channel ID: yt-dlp --print "%(channel_id)s" --playlist-end 1
 https://www.youtube.com/<handle>/videos
@@ -22,12 +31,36 @@ Usage:
 """
 
 import json
+import re
 import sys
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+
+# Main feed is last 12 months only (Troy, 2026-11-18). Movies library
+# is exempt — full-length films are queued whatever their date.
+CUTOFF_DATE = "2025-11-19"
+
+# Full edits only (Troy, 2026-11-18): skip tutorials, podcasts,
+# reviews, interviews, vlogs, unboxings and beginner guides.
+NON_EDIT_RE = re.compile(
+    r"how to|tutorial|podcast|unboxing|interview|\breview\b|vlog|beginner",
+    re.IGNORECASE,
+)
+
+# Contest videos get their own category (Troy, 2026-11-18). "Comp" means
+# competition (Troy, 2026-11-19) — matched as a whole word so "company"
+# and "compilation" don't trigger it.
+CONTEST_RE = re.compile(
+    r"\b(contest|championship|invitational|classic|comp|cup)s?\b",
+    re.IGNORECASE,
+)
+FULL_LENGTH_RE = re.compile(
+    r"full video|full-length|full length|full movie|full film|documentary",
+    re.IGNORECASE,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 CHANNELS_PATH = ROOT / "data" / "channels.json"
@@ -125,9 +158,17 @@ def main():
             video_id = entry["video_id"]
             if video_id in known_ids:
                 continue
-            # Contest videos get their own category (Troy, 2026-11-18).
+            # Intake filters (Troy's curation rules): last 12 months
+            # only, unless it looks like a full-length film; no
+            # tutorials, podcasts, reviews, interviews or vlogs.
             title_lower = entry["title"].lower()
-            if any(k in title_lower for k in ("contest", "championship", "invitational", "classic", " cup ")):
+            published = entry.get("published", "")
+            if published and published < CUTOFF_DATE and not FULL_LENGTH_RE.search(entry["title"]):
+                continue
+            if NON_EDIT_RE.search(entry["title"]):
+                continue
+            # Contest videos get their own category (Troy, 2026-11-18).
+            if CONTEST_RE.search(entry["title"]):
                 suggested_category = "contest"
             else:
                 suggested_category = channel.get("default_category", "aggressive")

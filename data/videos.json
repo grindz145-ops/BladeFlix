@@ -39,6 +39,15 @@
  },
  {
   "category": "aggressive",
+  "channel": "BUTTER TV",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "BUTTERTV PRESENTS: Json Adriani - Postcards From New York",
+  "video_id": "Kpzxd5JDT80",
+  "channel_handle": "@BUTTERTV"
+ },
+ {
+  "category": "aggressive",
   "channel": "Spook Wackadoo",
   "published": "2026-11-10",
   "tags": [
@@ -71,6 +80,15 @@
   "title": "HANDS oN - Rollerblading by ROBBIE PITTS",
   "video_id": "VhJfJixyj-c",
   "channel_handle": "@ROBBIEPITTS"
+ },
+ {
+  "category": "aggressive",
+  "channel": "BUTTER TV",
+  "published": "2026-11-04",
+  "tags": [],
+  "title": "BUTTERTV PRESENTS: Idronations 2026 - More Pizza Pasta & P-Rails",
+  "video_id": "VwbyTLSQ39w",
+  "channel_handle": "@BUTTERTV"
  },
  {
   "category": "aggressive",
@@ -222,6 +240,24 @@
   ],
   "title": "CommonUncommon || Json Adriani Pro Skate",
   "video_id": "WaOaWxg2bjo"
+ },
+ {
+  "category": "contest",
+  "channel": "Angled Souls",
+  "published": "2026-10-08",
+  "tags": [],
+  "title": "Michael French 19th 26th of Sept 2026 LA MPLS Ben Weis Memorial Comp",
+  "video_id": "wbxW6HB8ik4",
+  "channel_handle": "@angledsouls"
+ },
+ {
+  "category": "aggressive",
+  "channel": "Hawke Trackler",
+  "published": "2026-10-07",
+  "tags": [],
+  "title": "Demo Reel 26",
+  "video_id": "4CRWgoraFck",
+  "channel_handle": "@HawkeTrackler"
  },
  {
   "category": "aggressive",

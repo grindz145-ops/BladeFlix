@@ -29,7 +29,8 @@ scripts/
 
 Categories: `aggressive`, `wizard`, `urban`, `contest`, `movies` (full-length
 films). Contest coverage has its own category (Troy, 2026-11-18); do not use
-the `contest` tag — the category covers it. Movies has no strict length
+the `contest` tag — the category covers it. "Comp" in a title means
+competition (Troy, 2026-11-19), matched as a whole word. Movies has no strict length
 cutoff: anything longer than a short "section" or "edit" belongs there
 (Troy, 2026-11-18).
 
