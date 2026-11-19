@@ -52,9 +52,11 @@ NON_EDIT_RE = re.compile(
 
 # Contest videos get their own category (Troy, 2026-11-18). "Comp" means
 # competition (Troy, 2026-11-19) — matched as a whole word so "company"
-# and "compilation" don't trigger it.
+# and "compilation" don't trigger it. Compound tags like "bladingcup"
+# and "skatecomp" have no word boundary, so they match as substrings.
 CONTEST_RE = re.compile(
-    r"\b(contest|championship|invitational|classic|comp|cup)s?\b",
+    r"\b(contest|championship|champs|invitational|classic|comp|cup)s?\b"
+    r"|bladingcup|skatecomp",
     re.IGNORECASE,
 )
 FULL_LENGTH_RE = re.compile(
