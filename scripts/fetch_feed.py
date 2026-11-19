@@ -58,8 +58,9 @@ NON_EDIT_RE = re.compile(
 # and "compilation" don't trigger it. Compound tags like "bladingcup"
 # and "skatecomp" have no word boundary, so they match as substrings.
 # "Grand Prix" is Sven Boekhorst's contest series (added 2026-11-19).
+# "Cash for tricks" is a contest format (added 2026-11-19).
 CONTEST_RE = re.compile(
-    r"\b(contest|championship|champs|invitational|classic|comp|cup|grand prix)s?\b"
+    r"\b(contest|championship|champs|invitational|classic|comp|cup|grand prix|cash for tricks)s?\b"
     r"|bladingcup|skatecomp",
     re.IGNORECASE,
 )

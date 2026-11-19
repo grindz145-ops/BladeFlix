@@ -54,6 +54,21 @@ body {
 .tab.active { background: var(--accent); color: #fff; }
 
 .search-wrap { margin-left: auto; }
+.yt-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: 6px;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.yt-link:hover { background: #f6121d; color: #fff; }
+.yt-icon { width: 20px; height: 20px; fill: currentColor; flex-shrink: 0; }
 #search {
   background: var(--surface-2);
   border: 1px solid var(--border);
