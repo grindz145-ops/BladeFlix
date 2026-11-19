@@ -31,11 +31,24 @@
   <main class="main">
     <section class="filters">
       <div id="tag-chips" class="tag-chips" aria-label="Filter by tag"></div>
-      <p id="result-count" class="result-count"></p>
+      <div class="filter-bar">
+        <p id="result-count" class="result-count"></p>
+        <label class="page-size-label">Show
+          <select id="page-size" aria-label="Videos per page">
+            <option value="20" selected>20</option>
+            <option value="40">40</option>
+            <option value="60">60</option>
+            <option value="all">All</option>
+          </select>
+          per page</label>
+      </div>
     </section>
 
     <section id="grid" class="grid" aria-live="polite"></section>
     <p id="empty" class="empty" hidden>No videos match these filters.</p>
+    <div class="load-more-wrap">
+      <button id="load-more" class="load-more" hidden>Load more</button>
+    </div>
   </main>
 
   <footer class="site-footer">

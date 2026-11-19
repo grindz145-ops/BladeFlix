@@ -14,11 +14,22 @@ let activeCategory = "all";
 let activeTags = new Set();
 let searchQuery = "";
 
+// Pagination: default 20 videos per page, remembered across visits.
+let pageSize = 20;
+try {
+  const saved = localStorage.getItem("bladeflix-page-size");
+  if (saved === "all") pageSize = Infinity;
+  else if (saved && !isNaN(parseInt(saved, 10))) pageSize = parseInt(saved, 10);
+} catch (e) { /* private mode — just use the default */ }
+let visibleCount = pageSize;
+
 const gridEl = document.getElementById("grid");
 const tagChipsEl = document.getElementById("tag-chips");
 const resultCountEl = document.getElementById("result-count");
 const emptyEl = document.getElementById("empty");
 const searchEl = document.getElementById("search");
+const pageSizeEl = document.getElementById("page-size");
+const loadMoreEl = document.getElementById("load-more");
 const modalEl = document.getElementById("modal");
 const playerEl = document.getElementById("player");
 const modalTitleEl = document.getElementById("modal-title");
@@ -75,14 +86,26 @@ function matchesFilters(v) {
 
 function render() {
   const filtered = videos.filter(matchesFilters);
-  gridEl.innerHTML = filtered.map(cardHtml).join("");
+  const shown = filtered.slice(0, visibleCount);
+  gridEl.innerHTML = shown.map(cardHtml).join("");
   emptyEl.hidden = filtered.length > 0;
+  loadMoreEl.hidden = filtered.length <= visibleCount;
 
   const total = videos.length;
   const label = activeCategory === "all" ? "videos" : CATEGORY_LABELS[activeCategory].toLowerCase() + " videos";
-  resultCountEl.textContent = filtered.length === total
-    ? total + " videos"
-    : filtered.length + " of " + total + " " + label;
+  if (filtered.length === total && shown.length === filtered.length) {
+    resultCountEl.textContent = total + " videos";
+  } else if (shown.length === filtered.length) {
+    resultCountEl.textContent = filtered.length + " of " + total + " " + label;
+  } else {
+    resultCountEl.textContent = "Showing " + shown.length + " of " + filtered.length + " " + label;
+  }
+}
+
+// Any filter change starts back at the first page.
+function resetAndRender() {
+  visibleCount = pageSize;
+  render();
 }
 
 function renderTagChips() {
@@ -116,7 +139,7 @@ document.querySelectorAll(".tab").forEach(btn => {
     document.querySelectorAll(".tab").forEach(b => b.classList.remove("active"));
     btn.classList.add("active");
     activeCategory = btn.dataset.category;
-    render();
+    resetAndRender();
   });
 });
 
@@ -131,11 +154,23 @@ tagChipsEl.addEventListener("click", e => {
     activeTags.add(tag);
     chip.classList.add("active");
   }
-  render();
+  resetAndRender();
 });
 
 searchEl.addEventListener("input", () => {
   searchQuery = searchEl.value.trim().toLowerCase();
+  resetAndRender();
+});
+
+pageSizeEl.value = pageSize === Infinity ? "all" : String(pageSize);
+pageSizeEl.addEventListener("change", () => {
+  pageSize = pageSizeEl.value === "all" ? Infinity : parseInt(pageSizeEl.value, 10);
+  try { localStorage.setItem("bladeflix-page-size", pageSizeEl.value); } catch (e) { /* ignore */ }
+  resetAndRender();
+});
+
+loadMoreEl.addEventListener("click", () => {
+  visibleCount += pageSize;
   render();
 });
 
