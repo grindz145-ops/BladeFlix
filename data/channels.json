@@ -1,583 +1,757 @@
 [
- {
-  "channel_id": "UCFKjJzOPk-Ggw4imAaEdy4g",
-  "default_category": "aggressive",
-  "handle": "@angledsouls",
-  "name": "Angled Souls",
-  "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCItK3eiQK4TBXrgODyRgcjw",
-  "default_category": "aggressive",
-  "handle": "@bacemint",
-  "name": "bacemint",
-  "notes": "Added 2026-11-18 at Troy's direct request (Bacemint)."
- },
- {
-  "channel_id": "UCWuWxe37l9_cqgHFwtICixg",
-  "default_category": "aggressive",
-  "handle": "@backtoblading",
-  "name": "Back to Blading",
-  "notes": "Return-to-skating vlog plus the Gear Talk series."
- },
- {
-  "channel_id": "UCp0VcHDRMfof2wCod5vF6rQ",
-  "default_category": "urban",
-  "handle": "@billstoppard",
-  "name": "Bill Stoppard",
-  "notes": "Bill Stoppard Skating BSS; city/urban skating, Endless frames."
- },
- {
-  "channel_id": "UCQhs1oE375c-OlqZGX1EN_A",
-  "default_category": "aggressive",
-  "handle": "@BINY_Channel",
-  "name": "BINY",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UC-Npvp3omJGSjUCr1kmncIQ",
-  "default_category": "aggressive",
-  "handle": "@BodegaBoysNYC",
-  "name": "Bodega Boys NYC",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC11g5Nlag47inKA2eliwmxA",
-  "default_category": "aggressive",
-  "handle": "@BrisbaneCitySkate",
-  "name": "Brisbane City Skate",
-  "notes": "Referenced by This Week in Blade (2026-04-20); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCRzd5SM2jNcSSzkpzxB2Hiw",
-  "default_category": "aggressive",
-  "handle": "@burzatorden",
-  "name": "Burza Torden",
-  "notes": "Referenced by This Week in Blade (2026-02-09); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCow2WwGflulBal7grfhlo7A",
-  "default_category": "aggressive",
-  "handle": "@BUTTERTV",
-  "name": "BUTTER TV",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCZ9FKBOG2WSs6Gns8UQu9pA",
-  "default_category": "aggressive",
-  "handle": "@codydavidlampman",
-  "name": "Cody Lampman",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UClbdLNIymQiJKgUvbtYELZg",
-  "default_category": "aggressive",
-  "handle": "@Contempoline",
-  "name": "Contempoline",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-12-09); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UC6D5V5K05-yRUKWKG1gOSIg",
-  "default_category": "aggressive",
-  "handle": "@CougarSkates-m7g",
-  "name": "Cougar Skates",
-  "notes": "Referenced by This Week in Blade (2026-03-09); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCiqzCbmQrx_lRYdalfWW67g",
-  "default_category": "aggressive",
-  "handle": "@createoriginals",
-  "name": "Create Originals",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCbrnYRhdHografXStcEbE-w",
-  "default_category": "aggressive",
-  "handle": "@Daniel_Scarano",
-  "name": "Daniel Scarano",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCcA10p9MYKtVSFRNTiZz0qw",
-  "default_category": "aggressive",
-  "handle": "@freak4thestreets",
-  "name": "Danny Malm",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCMWhPFS6LhuBi3xa11LYwGw",
-  "default_category": "aggressive",
-  "handle": "@DEADwheels",
-  "name": "DEAD.wheels",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCsH4wmFLnIirAmS2mAPIl1A",
-  "default_category": "aggressive",
-  "handle": "@dreamurethane",
-  "name": "Dream Urethane",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCneQp1A5dAwAH0hAnY_kTdg",
-  "default_category": "aggressive",
-  "handle": "@dynovfr",
-  "name": "DynoVfr",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCcPta_VvXg6r7MX0cY7FbQw",
-  "default_category": "aggressive",
-  "handle": "@echoskatesofficial",
-  "name": "Echo Skates",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCsUg8hiIWzij7GqWmXpfCxg",
-  "default_category": "aggressive",
-  "handle": "@factionskatecompany4016",
-  "name": "Faction Skate Company",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCusSgfFoGO3eUkTNCQV8d4g",
-  "default_category": "aggressive",
-  "handle": "@feetblading",
-  "name": "feet blading",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UCCSM4nJac_YqW6l9uNdL35g",
-  "default_category": "aggressive",
-  "handle": "@FRSkates",
-  "name": "FR Skates",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC12ytgWUFLic6bOF_LWyA3A",
-  "default_category": "aggressive",
-  "handle": "@fullframepro",
-  "name": "Full Frame Productions",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCqDVltg2On3EWdJsGVIl8nw",
-  "default_category": "aggressive",
-  "handle": "@getrollin",
-  "name": "Get Rollin",
-  "notes": "Added 2026-11-18 at Troy request."
- },
- {
-  "channel_id": "UCfRYRYAYeP1T9gkb20cYAcQ",
-  "default_category": "aggressive",
-  "handle": "@Ghettocommunity1",
-  "name": "Ghetto Community",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC3GqSMBn9NC2iBQvHOB9eXA",
-  "default_category": "aggressive",
-  "handle": "@HawkeTrackler",
-  "name": "Hawke Trackler",
-  "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCJVnIhBMc38HY1AApfvvQiQ",
-  "default_category": "aggressive",
-  "handle": "@hedonskate",
-  "name": "Hedonskate",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UC6TciqjkUg8pdoi2zljkxIg",
-  "default_category": "aggressive",
-  "handle": "@HyperMike",
-  "name": "Hyper Mike",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCKhiamCHH3febHhiYRrNq8g",
-  "default_category": "aggressive",
-  "handle": "@Inferno_Skate",
-  "name": "Inferno Skate",
-  "notes": "Referenced by This Week in Blade (2026-02-09); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCNEwCqBdu2L3JfSXbNhPgZw",
-  "default_category": "urban",
-  "handle": "@IQONBRAND",
-  "name": "IQON BRAND",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC6JvzGXdfcUU_w84T8c3GFw",
-  "default_category": "aggressive",
-  "handle": "@BONEJONAS",
-  "name": "Jonas Hansson",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCn63T3znFYTPHRScjWePHCg",
-  "default_category": "aggressive",
-  "handle": "@whatswrong_withme",
-  "name": "Jordan Williams",
-  "notes": "Referenced by This Week in Blade (2026-01-05); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCpTlBL4Q6djTey4uDBEvRIg",
-  "default_category": "aggressive",
-  "handle": "@julianbah",
-  "name": "Julian Bah",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCHQQx7hhssSLJl1UGrh_iiw",
-  "default_category": "aggressive",
-  "handle": "@jumpstreetpodcast",
-  "name": "Jump Street Podcast",
-  "notes": "Austin Paz & Billy O'Neill. YouTube uploads look sparse since late 2025; podcast-first."
- },
- {
-  "channel_id": "UCu_joyJOX-daVxYFydIXVuw",
-  "default_category": "aggressive",
-  "handle": "@kizerframes",
-  "name": "Kizer Frames",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCdeCrclssdxhCd8eENfbtuQ",
-  "default_category": "aggressive",
-  "handle": "@krispiess",
-  "name": "krispiess",
-  "notes": "Referenced by This Week in Blade (2026-02-16); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCvj8296fIKXH0dz8D6nyMig",
-  "default_category": "aggressive",
-  "handle": "@MagicBootsTV",
-  "name": "Magic Boots",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UChIug8O_HC-WKFXCnpZKw9g",
-  "default_category": "aggressive",
-  "handle": "@mesmerskatebrand7752",
-  "name": "Mesmer Skate Brand",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UCBfyZmcXH6om7Ykqb2-eCsA",
-  "default_category": "aggressive",
-  "handle": "@mft225",
-  "name": "MFT",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCzwyucj22NfHTqZgaG-Gx8w",
-  "default_category": "aggressive",
-  "handle": "@MoonshineUHMW",
-  "name": "Moonshine UHMW",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCGTDZcpOPYLYfUAGz4YdpXg",
-  "default_category": "aggressive",
-  "handle": "@mushroomblading",
-  "name": "Mushroom Blading",
-  "notes": "In updater since site launch (via Spotty Dog sweep). Kamloops BC crew (Todd McInerney, Joey McGarry; Bratteys). Active \u2014 MB9 full film Oct 28, 2026. Heavy gear-review/commentary noise; NON_EDIT_RE extended 2026-11-19 for revisit/commentary/testing."
- },
- {
-  "channel_id": "UCbyulMBmwbzr_RqirBeFQbQ",
-  "default_category": "aggressive",
-  "handle": "@OrangeWheelCompany",
-  "name": "Orange Wheel Company",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC7eGdbBf8bmCvDSU2dd6BhQ",
-  "default_category": "aggressive",
-  "handle": "@pabloporta9635",
-  "name": "Pablo Porta",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC6ee9oeaNJUY14n7ZAB7X_w",
-  "default_category": "aggressive",
-  "handle": "@peoplesstudio",
-  "name": "Peoples Studio",
-  "notes": "Referenced by This Week in Blade (2026-04-20); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UC_LyDYHxBsfCrvWviYLroLA",
-  "default_category": "aggressive",
-  "handle": "@PerDiems",
-  "name": "Per Diems",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCWmHFUqLLruJrfR5HpkbkmA",
-  "default_category": "urban",
-  "handle": "@powerslideinlineskates",
-  "name": "Powerslide",
-  "notes": "Official Powerslide channel; urban/freeskate focus."
- },
- {
-  "channel_id": "UCqY0DV4i2sOfLnyJXikETAQ",
-  "default_category": "aggressive",
-  "handle": "@razorsskatecompany",
-  "name": "Razors Skate Co.",
-  "notes": "Official Razors channel."
- },
- {
-  "channel_id": "UC_cMnM6u3xJ3yeW1jzIHgaQ",
-  "default_category": "aggressive",
-  "handle": "@ricardolino",
-  "name": "Ricardo Lino",
-  "notes": "FlyingEagle brand manager; tutorials, contest coverage (Winterclash, Blading Cup), reviews."
- },
- {
-  "channel_id": "UC_Yi-HfRE0DUXpqe2tNwuzA",
-  "default_category": "aggressive",
-  "handle": "@RobKellett",
-  "name": "Rob Kellett",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCHx2p-8tTtTDtSJyOQIkOOA",
-  "default_category": "aggressive",
-  "handle": "@ROBBIEPITTS",
-  "name": "ROBBIE PITTS",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCMyl2icbyBIggfoHoJLsmog",
-  "default_category": "aggressive",
-  "handle": "@Roces1952",
-  "name": "Roces",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCug6hrTtWQxoVKSv8k8ALQg",
-  "default_category": "urban",
-  "handle": "@authenticrollerblade",
-  "name": "Rollerblade",
-  "notes": "Official Rollerblade channel; mostly urban/fitness with some aggressive-adjacent team edits."
- },
- {
-  "channel_id": "UCDv_bQeVwdPykjQZ3TaiBrw",
-  "default_category": "aggressive",
-  "handle": "@ROLLERBLADINGISSTILLFUN",
-  "name": "ROLLERBLADING IS STILL FUN",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC-Neqno_omjnPxjDNJ2O6aA",
-  "default_category": "aggressive",
-  "handle": "@rollernews",
-  "name": "RollerNews",
-  "notes": "YouTube channel dormant since 2021; rollernews.com is the active arm. Kept in the list in case uploads resume."
- },
- {
-  "channel_id": "UCCWCmz57P8-LrvWJUOjRIVQ",
-  "default_category": "aggressive",
-  "handle": "@seang.6901",
-  "name": "Sean G.",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCYm8DuNofGcAVGBsYJWGs3w",
-  "default_category": "aggressive",
-  "handle": "@ShredCitySkatesKelvW",
-  "name": "Shred City Skates",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UCghezqxibnd-HhkggSgu6VA",
-  "default_category": "aggressive",
-  "handle": "@SignatureSeries",
-  "name": "Signature Series",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCu_CQoGQcWuJGMhPLnywPxA",
-  "default_category": "aggressive",
-  "handle": "@SMC-kr",
-  "name": "SMCcom",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCErUIbVrMwbco7ah6G-XOiQ",
-  "default_category": "aggressive",
-  "handle": "@spookwackadoo",
-  "name": "Spook Wackadoo",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCo1HbgTeTfncgT3x6AeUD-Q",
-  "default_category": "aggressive",
-  "handle": "@StandardSkateCo",
-  "name": "Standard Skate Co",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UCIPBVQjc34W4ckw-OrurVjA",
-  "default_category": "aggressive",
-  "handle": "@Terredeglisse",
-  "name": "Terre de glisse",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC1DchZewLaVQUwXD6XQ41Lw",
-  "default_category": "aggressive",
-  "handle": "@themskates",
-  "name": "THEM Skates",
-  "notes": "Jon Julio's brand; also hosts Danny Beer's videos. Channel ID not surfaced by page fetches."
- },
- {
-  "channel_id": "UCRlkUjI5wNs9kKOcUHZmGbg",
-  "default_category": "aggressive",
-  "handle": "@thisissoul",
-  "name": "Thisissoul",
-  "notes": "Amsterdam skate shop; tutorials incl. wizard basics, shop edits, VHS archive uploads."
- },
- {
-  "channel_id": "UCJ5bLzs98OAm3sqw3LjiprA",
-  "default_category": "aggressive",
-  "handle": "@TomMoyse",
-  "name": "Tom Moyse",
-  "notes": "Blading news/commentary, WTF Is... series, Community Cup. Very active."
- },
- {
-  "channel_id": "UCyYhTucqtq5yC7ayyY6uSXw",
-  "default_category": "aggressive",
-  "handle": "@travisrhodes1989",
-  "name": "Travis Rhodes",
-  "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCmmjHrTARaHhzBLj_Dolv6w",
-  "default_category": "aggressive",
-  "handle": "@tuskofficial_atl",
-  "name": "TUSK OFFICIAL",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC4VDk15d0oi_fxgene1y0Bg",
-  "default_category": "aggressive",
-  "handle": "@UNATHITRIBE",
-  "name": "UNATHI TRIBE",
-  "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
- },
- {
-  "channel_id": "UC0jgal54r9HddjaZTRRHtEw",
-  "default_category": "aggressive",
-  "handle": "@UndercoverWheels",
-  "name": "Undercover Wheels",
-  "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UC1kgIHFXVZ7u2aEqhhDcJBQ",
-  "default_category": "aggressive",
-  "handle": "@unlabelledgirls",
-  "name": "Unlabelled Girls",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UCQKRv2JavNQWqKWTDZpFeug",
-  "default_category": "aggressive",
-  "handle": "@usdskatesofficial",
-  "name": "USD Skates",
-  "notes": "Official USD channel. Channel ID not surfaced by page fetches (only the truncated prefix UCQKRv2Jav...); the RSS updater skips this channel until the full ID is added."
- },
- {
-  "channel_id": "UC6KBtUqT28b3d2ToPQ9-cMA",
-  "default_category": "aggressive",
-  "handle": "@vankovtun",
-  "name": "Vankovtun",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UCqB-_NI6QO6kM-spL6UrhJg",
-  "default_category": "aggressive",
-  "handle": "@Shintaro_Nakayama",
-  "name": "versclub",
-  "notes": "Referenced by This Week in Blade (2026-01-12); added in back-catalog sweep 2026-11-18."
- },
- {
-  "channel_id": "UCdANhut0Idrqrf-QbbQno9Q",
-  "default_category": "aggressive",
-  "handle": "@wheelsceneblading",
-  "name": "Wheel Scene",
-  "notes": "David McNamara; Scottish skatepark tours, skate reviews, Platform podcast."
- },
- {
-  "channel_id": "UCf5jRf3CSi6ANPj_e93GKpg",
-  "default_category": "contest",
-  "handle": "@winterclash_official",
-  "name": "Winterclash",
-  "notes": "Added 2026-11-19 at Troy's request (sources research)."
- },
- {
-  "channel_id": "UCiwUpLaBVzm7fktnvN3r-VA",
-  "default_category": "wizard",
-  "handle": "@wizardskating",
-  "name": "Wizard Skates",
-  "notes": "Leon Basin's Wizard Skating channel (Field Reports, FRAMEWERK). Note: the @wizardskating URL returned 404 when checked 2026-11-18, but the channel is confirmed via its channel ID; the handle may differ."
- },
- {
-  "channel_id": "UCUsSCs1s8a4UKmQ0KPQ2ShQ",
-  "default_category": "urban",
-  "handle": "@FlowSkate",
-  "name": "Flow Skate",
-  "notes": "Added 2026-11-19 at Troy's request (Canadian sources). Formerly Shop Task (Shaun Unwin, Calgary). Flow/urban skating; tutorials filtered."
- },
- {
-  "channel_id": "UCT4wQEc__FqtCOIvuWOLEqA",
-  "default_category": "aggressive",
-  "handle": "@CJWellsmore",
-  "name": "CJ Wellsmore",
-  "notes": "Added 2026-11-19 at Troy's request. Australian USD pro. Active; heavy vlog/diary format (Do The Thing Diaries) \u2014 eyeball backfill, queue edits/contests/sessions only."
- },
- {
-  "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
-  "default_category": "aggressive",
-  "handle": "@PlasticPushers",
-  "name": "Plastic Pushers",
-  "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Dutch crew; full-length films, B-roll rider profiles, Dutch National Championship 2026."
- },
- {
-  "channel_id": "UCnI-UtGPH3cOn4j7sdc8voA",
-  "default_category": "aggressive",
-  "handle": "@BorklynZoo",
-  "name": "Borklyn Zoo",
-  "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German crew (Daniel Enin); long-form BZ Schabernack street edits."
- },
- {
-  "channel_id": "UC9FKEIseZYSciqXY-0FFWag",
-  "default_category": "aggressive",
-  "handle": "@jozenk",
-  "name": "Jo Zenk",
-  "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German Roces pro (M\u00fcnster); street edits, RAW CUTs, crew sessions. Posts Shorts (Droptober daily Oct 2026) \u2014 orientation check needed."
- },
- {
-  "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
-  "default_category": "aggressive",
-  "handle": "@BladingSpain",
-  "name": "Blading Spain",
-  "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Spanish crew; episodic Barcelona sessions + contests (Cash For Tricks 2026)."
- },
- {
-  "channel_id": "UCmvgCTI2_GyciW3TCCBdAPw",
-  "default_category": "aggressive",
-  "handle": "",
-  "name": "Sven Boekhorst",
-  "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Dutch legend; yearly edits + hosts the Grand Prix contest series. No @ handle (legacy channel)."
- },
- {
-  "channel_id": "UCL4rW_mq8WISalKX2__HukA",
-  "default_category": "aggressive",
-  "handle": "@FlyingEagleSkates",
-  "name": "Flying Eagle Skates",
-  "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Big brand (47.9K subs); aggressive team edits + urban edits. ~50% product intros/Spec Check clips."
- }
+  {
+    "channel_id": "UCFKjJzOPk-Ggw4imAaEdy4g",
+    "default_category": "aggressive",
+    "handle": "@angledsouls",
+    "name": "Angled Souls",
+    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCItK3eiQK4TBXrgODyRgcjw",
+    "default_category": "aggressive",
+    "handle": "@bacemint",
+    "name": "bacemint",
+    "notes": "Added 2026-11-18 at Troy's direct request (Bacemint)."
+  },
+  {
+    "channel_id": "UCWuWxe37l9_cqgHFwtICixg",
+    "default_category": "aggressive",
+    "handle": "@backtoblading",
+    "name": "Back to Blading",
+    "notes": "Return-to-skating vlog plus the Gear Talk series."
+  },
+  {
+    "channel_id": "UCp0VcHDRMfof2wCod5vF6rQ",
+    "default_category": "urban",
+    "handle": "@billstoppard",
+    "name": "Bill Stoppard",
+    "notes": "Bill Stoppard Skating BSS; city/urban skating, Endless frames."
+  },
+  {
+    "channel_id": "UCQhs1oE375c-OlqZGX1EN_A",
+    "default_category": "aggressive",
+    "handle": "@BINY_Channel",
+    "name": "BINY",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UC-Npvp3omJGSjUCr1kmncIQ",
+    "default_category": "aggressive",
+    "handle": "@BodegaBoysNYC",
+    "name": "Bodega Boys NYC",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC11g5Nlag47inKA2eliwmxA",
+    "default_category": "aggressive",
+    "handle": "@BrisbaneCitySkate",
+    "name": "Brisbane City Skate",
+    "notes": "Referenced by This Week in Blade (2026-04-20); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCRzd5SM2jNcSSzkpzxB2Hiw",
+    "default_category": "aggressive",
+    "handle": "@burzatorden",
+    "name": "Burza Torden",
+    "notes": "Referenced by This Week in Blade (2026-02-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCow2WwGflulBal7grfhlo7A",
+    "default_category": "aggressive",
+    "handle": "@BUTTERTV",
+    "name": "BUTTER TV",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCZ9FKBOG2WSs6Gns8UQu9pA",
+    "default_category": "aggressive",
+    "handle": "@codydavidlampman",
+    "name": "Cody Lampman",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UClbdLNIymQiJKgUvbtYELZg",
+    "default_category": "aggressive",
+    "handle": "@Contempoline",
+    "name": "Contempoline",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-12-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC6D5V5K05-yRUKWKG1gOSIg",
+    "default_category": "aggressive",
+    "handle": "@CougarSkates-m7g",
+    "name": "Cougar Skates",
+    "notes": "Referenced by This Week in Blade (2026-03-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCiqzCbmQrx_lRYdalfWW67g",
+    "default_category": "aggressive",
+    "handle": "@createoriginals",
+    "name": "Create Originals",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCbrnYRhdHografXStcEbE-w",
+    "default_category": "aggressive",
+    "handle": "@Daniel_Scarano",
+    "name": "Daniel Scarano",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCcA10p9MYKtVSFRNTiZz0qw",
+    "default_category": "aggressive",
+    "handle": "@freak4thestreets",
+    "name": "Danny Malm",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCMWhPFS6LhuBi3xa11LYwGw",
+    "default_category": "aggressive",
+    "handle": "@DEADwheels",
+    "name": "DEAD.wheels",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCsH4wmFLnIirAmS2mAPIl1A",
+    "default_category": "aggressive",
+    "handle": "@dreamurethane",
+    "name": "Dream Urethane",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCneQp1A5dAwAH0hAnY_kTdg",
+    "default_category": "aggressive",
+    "handle": "@dynovfr",
+    "name": "DynoVfr",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCcPta_VvXg6r7MX0cY7FbQw",
+    "default_category": "aggressive",
+    "handle": "@echoskatesofficial",
+    "name": "Echo Skates",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCsUg8hiIWzij7GqWmXpfCxg",
+    "default_category": "aggressive",
+    "handle": "@factionskatecompany4016",
+    "name": "Faction Skate Company",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCusSgfFoGO3eUkTNCQV8d4g",
+    "default_category": "aggressive",
+    "handle": "@feetblading",
+    "name": "feet blading",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UCCSM4nJac_YqW6l9uNdL35g",
+    "default_category": "aggressive",
+    "handle": "@FRSkates",
+    "name": "FR Skates",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC12ytgWUFLic6bOF_LWyA3A",
+    "default_category": "aggressive",
+    "handle": "@fullframepro",
+    "name": "Full Frame Productions",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCqDVltg2On3EWdJsGVIl8nw",
+    "default_category": "aggressive",
+    "handle": "@getrollin",
+    "name": "Get Rollin",
+    "notes": "Added 2026-11-18 at Troy request."
+  },
+  {
+    "channel_id": "UCfRYRYAYeP1T9gkb20cYAcQ",
+    "default_category": "aggressive",
+    "handle": "@Ghettocommunity1",
+    "name": "Ghetto Community",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC3GqSMBn9NC2iBQvHOB9eXA",
+    "default_category": "aggressive",
+    "handle": "@HawkeTrackler",
+    "name": "Hawke Trackler",
+    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCJVnIhBMc38HY1AApfvvQiQ",
+    "default_category": "aggressive",
+    "handle": "@hedonskate",
+    "name": "Hedonskate",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UC6TciqjkUg8pdoi2zljkxIg",
+    "default_category": "aggressive",
+    "handle": "@HyperMike",
+    "name": "Hyper Mike",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCKhiamCHH3febHhiYRrNq8g",
+    "default_category": "aggressive",
+    "handle": "@Inferno_Skate",
+    "name": "Inferno Skate",
+    "notes": "Referenced by This Week in Blade (2026-02-09); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCNEwCqBdu2L3JfSXbNhPgZw",
+    "default_category": "urban",
+    "handle": "@IQONBRAND",
+    "name": "IQON BRAND",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC6JvzGXdfcUU_w84T8c3GFw",
+    "default_category": "aggressive",
+    "handle": "@BONEJONAS",
+    "name": "Jonas Hansson",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCn63T3znFYTPHRScjWePHCg",
+    "default_category": "aggressive",
+    "handle": "@whatswrong_withme",
+    "name": "Jordan Williams",
+    "notes": "Referenced by This Week in Blade (2026-01-05); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCpTlBL4Q6djTey4uDBEvRIg",
+    "default_category": "aggressive",
+    "handle": "@julianbah",
+    "name": "Julian Bah",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCHQQx7hhssSLJl1UGrh_iiw",
+    "default_category": "aggressive",
+    "handle": "@jumpstreetpodcast",
+    "name": "Jump Street Podcast",
+    "notes": "Austin Paz & Billy O'Neill. YouTube uploads look sparse since late 2025; podcast-first."
+  },
+  {
+    "channel_id": "UCu_joyJOX-daVxYFydIXVuw",
+    "default_category": "aggressive",
+    "handle": "@kizerframes",
+    "name": "Kizer Frames",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCdeCrclssdxhCd8eENfbtuQ",
+    "default_category": "aggressive",
+    "handle": "@krispiess",
+    "name": "krispiess",
+    "notes": "Referenced by This Week in Blade (2026-02-16); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCvj8296fIKXH0dz8D6nyMig",
+    "default_category": "aggressive",
+    "handle": "@MagicBootsTV",
+    "name": "Magic Boots",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UChIug8O_HC-WKFXCnpZKw9g",
+    "default_category": "aggressive",
+    "handle": "@mesmerskatebrand7752",
+    "name": "Mesmer Skate Brand",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UCBfyZmcXH6om7Ykqb2-eCsA",
+    "default_category": "aggressive",
+    "handle": "@mft225",
+    "name": "MFT",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCzwyucj22NfHTqZgaG-Gx8w",
+    "default_category": "aggressive",
+    "handle": "@MoonshineUHMW",
+    "name": "Moonshine UHMW",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCGTDZcpOPYLYfUAGz4YdpXg",
+    "default_category": "aggressive",
+    "handle": "@mushroomblading",
+    "name": "Mushroom Blading",
+    "notes": "In updater since site launch (via Spotty Dog sweep). Kamloops BC crew (Todd McInerney, Joey McGarry; Bratteys). Active — MB9 full film Oct 28, 2026. Heavy gear-review/commentary noise; NON_EDIT_RE extended 2026-11-19 for revisit/commentary/testing."
+  },
+  {
+    "channel_id": "UCbyulMBmwbzr_RqirBeFQbQ",
+    "default_category": "aggressive",
+    "handle": "@OrangeWheelCompany",
+    "name": "Orange Wheel Company",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC7eGdbBf8bmCvDSU2dd6BhQ",
+    "default_category": "aggressive",
+    "handle": "@pabloporta9635",
+    "name": "Pablo Porta",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC6ee9oeaNJUY14n7ZAB7X_w",
+    "default_category": "aggressive",
+    "handle": "@peoplesstudio",
+    "name": "Peoples Studio",
+    "notes": "Referenced by This Week in Blade (2026-04-20); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC_LyDYHxBsfCrvWviYLroLA",
+    "default_category": "aggressive",
+    "handle": "@PerDiems",
+    "name": "Per Diems",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCWmHFUqLLruJrfR5HpkbkmA",
+    "default_category": "urban",
+    "handle": "@powerslideinlineskates",
+    "name": "Powerslide",
+    "notes": "Official Powerslide channel; urban/freeskate focus."
+  },
+  {
+    "channel_id": "UCqY0DV4i2sOfLnyJXikETAQ",
+    "default_category": "aggressive",
+    "handle": "@razorsskatecompany",
+    "name": "Razors Skate Co.",
+    "notes": "Official Razors channel."
+  },
+  {
+    "channel_id": "UC_cMnM6u3xJ3yeW1jzIHgaQ",
+    "default_category": "aggressive",
+    "handle": "@ricardolino",
+    "name": "Ricardo Lino",
+    "notes": "FlyingEagle brand manager; tutorials, contest coverage (Winterclash, Blading Cup), reviews."
+  },
+  {
+    "channel_id": "UC_Yi-HfRE0DUXpqe2tNwuzA",
+    "default_category": "aggressive",
+    "handle": "@RobKellett",
+    "name": "Rob Kellett",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCHx2p-8tTtTDtSJyOQIkOOA",
+    "default_category": "aggressive",
+    "handle": "@ROBBIEPITTS",
+    "name": "ROBBIE PITTS",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCMyl2icbyBIggfoHoJLsmog",
+    "default_category": "aggressive",
+    "handle": "@Roces1952",
+    "name": "Roces",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCug6hrTtWQxoVKSv8k8ALQg",
+    "default_category": "urban",
+    "handle": "@authenticrollerblade",
+    "name": "Rollerblade",
+    "notes": "Official Rollerblade channel; mostly urban/fitness with some aggressive-adjacent team edits."
+  },
+  {
+    "channel_id": "UCDv_bQeVwdPykjQZ3TaiBrw",
+    "default_category": "aggressive",
+    "handle": "@ROLLERBLADINGISSTILLFUN",
+    "name": "ROLLERBLADING IS STILL FUN",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC-Neqno_omjnPxjDNJ2O6aA",
+    "default_category": "aggressive",
+    "handle": "@rollernews",
+    "name": "RollerNews",
+    "notes": "YouTube channel dormant since 2021; rollernews.com is the active arm. Kept in the list in case uploads resume."
+  },
+  {
+    "channel_id": "UCCWCmz57P8-LrvWJUOjRIVQ",
+    "default_category": "aggressive",
+    "handle": "@seang.6901",
+    "name": "Sean G.",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCYm8DuNofGcAVGBsYJWGs3w",
+    "default_category": "aggressive",
+    "handle": "@ShredCitySkatesKelvW",
+    "name": "Shred City Skates",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UCghezqxibnd-HhkggSgu6VA",
+    "default_category": "aggressive",
+    "handle": "@SignatureSeries",
+    "name": "Signature Series",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCu_CQoGQcWuJGMhPLnywPxA",
+    "default_category": "aggressive",
+    "handle": "@SMC-kr",
+    "name": "SMCcom",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCErUIbVrMwbco7ah6G-XOiQ",
+    "default_category": "aggressive",
+    "handle": "@spookwackadoo",
+    "name": "Spook Wackadoo",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCo1HbgTeTfncgT3x6AeUD-Q",
+    "default_category": "aggressive",
+    "handle": "@StandardSkateCo",
+    "name": "Standard Skate Co",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UCIPBVQjc34W4ckw-OrurVjA",
+    "default_category": "aggressive",
+    "handle": "@Terredeglisse",
+    "name": "Terre de glisse",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC1DchZewLaVQUwXD6XQ41Lw",
+    "default_category": "aggressive",
+    "handle": "@themskates",
+    "name": "THEM Skates",
+    "notes": "Jon Julio's brand; also hosts Danny Beer's videos. Channel ID not surfaced by page fetches."
+  },
+  {
+    "channel_id": "UCRlkUjI5wNs9kKOcUHZmGbg",
+    "default_category": "aggressive",
+    "handle": "@thisissoul",
+    "name": "Thisissoul",
+    "notes": "Amsterdam skate shop; tutorials incl. wizard basics, shop edits, VHS archive uploads."
+  },
+  {
+    "channel_id": "UCJ5bLzs98OAm3sqw3LjiprA",
+    "default_category": "aggressive",
+    "handle": "@TomMoyse",
+    "name": "Tom Moyse",
+    "notes": "Blading news/commentary, WTF Is... series, Community Cup. Very active."
+  },
+  {
+    "channel_id": "UCyYhTucqtq5yC7ayyY6uSXw",
+    "default_category": "aggressive",
+    "handle": "@travisrhodes1989",
+    "name": "Travis Rhodes",
+    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCmmjHrTARaHhzBLj_Dolv6w",
+    "default_category": "aggressive",
+    "handle": "@tuskofficial_atl",
+    "name": "TUSK OFFICIAL",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC4VDk15d0oi_fxgene1y0Bg",
+    "default_category": "aggressive",
+    "handle": "@UNATHITRIBE",
+    "name": "UNATHI TRIBE",
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+  },
+  {
+    "channel_id": "UC0jgal54r9HddjaZTRRHtEw",
+    "default_category": "aggressive",
+    "handle": "@UndercoverWheels",
+    "name": "Undercover Wheels",
+    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UC1kgIHFXVZ7u2aEqhhDcJBQ",
+    "default_category": "aggressive",
+    "handle": "@unlabelledgirls",
+    "name": "Unlabelled Girls",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UCQKRv2JavNQWqKWTDZpFeug",
+    "default_category": "aggressive",
+    "handle": "@usdskatesofficial",
+    "name": "USD Skates",
+    "notes": "Official USD channel. Channel ID not surfaced by page fetches (only the truncated prefix UCQKRv2Jav...); the RSS updater skips this channel until the full ID is added."
+  },
+  {
+    "channel_id": "UC6KBtUqT28b3d2ToPQ9-cMA",
+    "default_category": "aggressive",
+    "handle": "@vankovtun",
+    "name": "Vankovtun",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UCqB-_NI6QO6kM-spL6UrhJg",
+    "default_category": "aggressive",
+    "handle": "@Shintaro_Nakayama",
+    "name": "versclub",
+    "notes": "Referenced by This Week in Blade (2026-01-12); added in back-catalog sweep 2026-11-18."
+  },
+  {
+    "channel_id": "UCdANhut0Idrqrf-QbbQno9Q",
+    "default_category": "aggressive",
+    "handle": "@wheelsceneblading",
+    "name": "Wheel Scene",
+    "notes": "David McNamara; Scottish skatepark tours, skate reviews, Platform podcast."
+  },
+  {
+    "channel_id": "UCf5jRf3CSi6ANPj_e93GKpg",
+    "default_category": "contest",
+    "handle": "@winterclash_official",
+    "name": "Winterclash",
+    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+  },
+  {
+    "channel_id": "UCiwUpLaBVzm7fktnvN3r-VA",
+    "default_category": "wizard",
+    "handle": "@wizardskating",
+    "name": "Wizard Skates",
+    "notes": "Leon Basin's Wizard Skating channel (Field Reports, FRAMEWERK). Note: the @wizardskating URL returned 404 when checked 2026-11-18, but the channel is confirmed via its channel ID; the handle may differ."
+  },
+  {
+    "channel_id": "UCUsSCs1s8a4UKmQ0KPQ2ShQ",
+    "default_category": "urban",
+    "handle": "@FlowSkate",
+    "name": "Flow Skate",
+    "notes": "Added 2026-11-19 at Troy's request (Canadian sources). Formerly Shop Task (Shaun Unwin, Calgary). Flow/urban skating; tutorials filtered."
+  },
+  {
+    "channel_id": "UCT4wQEc__FqtCOIvuWOLEqA",
+    "default_category": "aggressive",
+    "handle": "@CJWellsmore",
+    "name": "CJ Wellsmore",
+    "notes": "Added 2026-11-19 at Troy's request. Australian USD pro. Active; heavy vlog/diary format (Do The Thing Diaries) — eyeball backfill, queue edits/contests/sessions only."
+  },
+  {
+    "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
+    "default_category": "aggressive",
+    "handle": "@PlasticPushers",
+    "name": "Plastic Pushers",
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Dutch crew; full-length films, B-roll rider profiles, Dutch National Championship 2026."
+  },
+  {
+    "channel_id": "UCnI-UtGPH3cOn4j7sdc8voA",
+    "default_category": "aggressive",
+    "handle": "@BorklynZoo",
+    "name": "Borklyn Zoo",
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German crew (Daniel Enin); long-form BZ Schabernack street edits."
+  },
+  {
+    "channel_id": "UC9FKEIseZYSciqXY-0FFWag",
+    "default_category": "aggressive",
+    "handle": "@jozenk",
+    "name": "Jo Zenk",
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German Roces pro (Münster); street edits, RAW CUTs, crew sessions. Posts Shorts (Droptober daily Oct 2026) — orientation check needed."
+  },
+  {
+    "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
+    "default_category": "aggressive",
+    "handle": "@BladingSpain",
+    "name": "Blading Spain",
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Spanish crew; episodic Barcelona sessions + contests (Cash For Tricks 2026)."
+  },
+  {
+    "channel_id": "UCmvgCTI2_GyciW3TCCBdAPw",
+    "default_category": "aggressive",
+    "handle": "",
+    "name": "Sven Boekhorst",
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Dutch legend; yearly edits + hosts the Grand Prix contest series. No @ handle (legacy channel)."
+  },
+  {
+    "channel_id": "UCL4rW_mq8WISalKX2__HukA",
+    "default_category": "aggressive",
+    "handle": "@FlyingEagleSkates",
+    "name": "Flying Eagle Skates",
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Big brand (47.9K subs); aggressive team edits + urban edits. ~50% product intros/Spec Check clips."
+  },
+  {
+    "name": "Ant Medina",
+    "handle": "@candy_blading",
+    "channel_id": "UC6uCyDNT-heLt7HTuBsOExQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Blank Rolling Products",
+    "handle": "@blankrollingproducts597",
+    "channel_id": "UCvlWEWhctjaOawbUbrRlhoA",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "BONG LEACH",
+    "handle": "@_BONGLEACH",
+    "channel_id": "UCO9NGlkw2naIUn-ZCpx62iQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "EXPRESS YOUTUBE",
+    "handle": "@express.youtube.channel",
+    "channel_id": "UCMKzX5e98bUQBJ2mfhehrPw",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "FANTOM MEDIA",
+    "handle": "@SKATEFANTOM",
+    "channel_id": "UCQmH2_qp4GYR1wHr8GSUVvA",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Furtius VLC",
+    "handle": "@furtiusvlc7221",
+    "channel_id": "UCa9d7A_bs2AcPceow9Td2aw",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Gawds Brand",
+    "handle": "@GawdsBrand",
+    "channel_id": "UCF7_fwZ2jT5JUyh5sMEg8xQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "GoatsBladeClub",
+    "handle": "@goatsbladeclub",
+    "channel_id": "UCcTzTiJmYSj5mtq63WSwItA",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Grindhoven",
+    "handle": "@Grindhoven",
+    "channel_id": "UCOgjLGCCRplVdWkW-WftnSw",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Hermanos film",
+    "handle": "@hermanosfilm",
+    "channel_id": "UCednSaVQuZEjJ_H-0fYf5PA",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "HoodPandaTV",
+    "handle": "@hoodpanda",
+    "channel_id": "UCUhsnX5zgjSwcpJrzxOjI5A",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "jumbo",
+    "handle": "@jumboblading",
+    "channel_id": "UC-D22eCj_DaIgwIwQ6CgAMQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Red Eye Wheel Co.",
+    "handle": "@redeyewheels",
+    "channel_id": "UCglHdtS4kffMtLBp6cG-utQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Ryan Gillett",
+    "handle": "@ryanroller",
+    "channel_id": "UC90vX5k1kOZbOTOvfhl7H_Q",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Source Code",
+    "handle": "@SourceCodeAI",
+    "channel_id": "UC-Zh0wTcvuSqExMwHEYaz6Q",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "tallboyz",
+    "handle": "@tallboyz9336",
+    "channel_id": "UCPEBo4TAVqSinh1qhoAnhSA",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "I Roll NY",
+    "handle": "@irollny",
+    "channel_id": "UCFO21aECd1XE5ifYJYTbsvQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "TheBoatMag",
+    "handle": "@theboatmag",
+    "channel_id": "UC6j7uAJ6lA0tU5_GqPGb9aw",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "name productions",
+    "handle": "@name.productions",
+    "channel_id": "UCNhcXP4MFeE85VMNwQrygXw",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Capital Rollas",
+    "handle": "@capitalrollas",
+    "channel_id": "UCc1fTOPbYKKC-0XOB3jNN_Q",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Premium Rolling",
+    "handle": "@premiumrolling",
+    "channel_id": "UCWcFD9jPqQzAXLg4gu7X1Ag",
+    "default_category": "movies"
+  },
+  {
+    "name": "Watermelon Roll TV",
+    "handle": "@WatermelonRollTV",
+    "channel_id": "UCMnnju8WgIj5pNtmpxJhiPQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Official Sunday Brunch",
+    "handle": "@OfficialSundayBrunch",
+    "channel_id": "UCLMpX86mFvNlV2XkMLKKVUw",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Colorins Productions",
+    "handle": "@franciscobanaclocha5811",
+    "channel_id": "UCoug8Lb4fm3YRLrY82lhpCg",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "SyeahSkate",
+    "handle": "@syeahskate",
+    "channel_id": "UCGA6R5B6RDa-uC3fdiydv5A",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Hadrien Bastouil",
+    "handle": "@hadrienbastouil",
+    "channel_id": "UCh-mEC2Z6iFXlPa5gzkEhGA",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "MVMNT CREW",
+    "handle": "@MVMNTCREW",
+    "channel_id": "UCbyKNQvCsxu2scI5CyCNeOQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Vollkornblading",
+    "handle": "@vollkornblading",
+    "channel_id": "UCLFI3u3EppKiiicODVY-bdQ",
+    "default_category": "aggressive"
+  },
+  {
+    "name": "Jeremy Soderburg",
+    "handle": "@Soderburg_official",
+    "channel_id": "UCGJWD-NQ4J5mIYqB7oUA4wA",
+    "default_category": "aggressive"
+  }
 ]
