@@ -1024,5 +1024,41 @@
     "first_referenced_by": "Rollernews 2025-10-22",
     "first_seen": "2026-11-20",
     "videos_referenced": 0
+  },
+  {
+    "name": "La Roulette",
+    "handle": "@laroulette2015",
+    "channel_id": "UCyaPQ4xfnG8BhaEQVHII05w",
+    "default_category": "aggressive",
+    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+    "first_seen": "2026-11-20",
+    "videos_referenced": 0
+  },
+  {
+    "name": "Parallel Projects",
+    "handle": "@parallel_projects",
+    "channel_id": "UCUJRzhmLLjWTIdbmaDv2MEA",
+    "default_category": "aggressive",
+    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+    "first_seen": "2026-11-20",
+    "videos_referenced": 0
+  },
+  {
+    "name": "Andrew Kazlauskas",
+    "handle": "@lauskinit",
+    "channel_id": "UC8IYJtIZt_2s1-gpuDOHvFg",
+    "default_category": "aggressive",
+    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+    "first_seen": "2026-11-20",
+    "videos_referenced": 0
+  },
+  {
+    "name": "L.O.W Academy",
+    "handle": "@LOWSkateAcademyDK",
+    "channel_id": "UCW1q4ScadA2l9wn3cVmoj4g",
+    "default_category": "aggressive",
+    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+    "first_seen": "2026-11-20",
+    "videos_referenced": 0
   }
 ]

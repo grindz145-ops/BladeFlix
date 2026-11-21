@@ -62,8 +62,9 @@ for vid, choice in decisions.items():
 decided = set(decisions)
 remaining = [p for p in pending if p["video_id"] not in decided]
 
-# Keep live feed newest-first by published date.
-videos.sort(key=lambda v: v.get("published", ""), reverse=True)
+# Keep live feed newest-first by effective date (original_date when
+# backdated, else published).
+videos.sort(key=lambda v: v.get("original_date") or v.get("published", ""), reverse=True)
 
 json.dump(videos, open(DATA / "videos.json", "w"), indent=1)
 json.dump(remaining, open(DATA / "pending.json", "w"), indent=1)

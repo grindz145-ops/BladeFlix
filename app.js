@@ -42,6 +42,26 @@ function formatDate(iso, approx) {
   return approx ? "~" + s : s;
 }
 
+// Effective date: the original production date when a video was backdated
+// (vintage re-uploads), else the YouTube upload date. Sorting and display
+// both use this, so a 2003 film sits with 2003-era content, not 2026 uploads.
+function effDate(v) {
+  return v.original_date || v.published;
+}
+
+// Display date: year-only when we only know the year, month+year when we
+// only know the month, else the full date. Never shows a fake precise day.
+function displayDate(v) {
+  if (v.original_date && v.original_date_precision === "year") {
+    return v.original_date.slice(0, 4);
+  }
+  if (v.original_date && v.original_date_precision === "month") {
+    const d = new Date(v.original_date + "T12:00:00");
+    return d.toLocaleDateString("en-US", { month: "short", year: "numeric" });
+  }
+  return formatDate(effDate(v), v.date_approx);
+}
+
 function thumbUrl(id) {
   return "https://i.ytimg.com/vi/" + id + "/mqdefault.jpg";
 }
@@ -59,7 +79,7 @@ function cardHtml(v) {
       "</div>" +
       '<div class="card-body">' +
         '<h3 class="card-title">' + escapeHtml(v.title) + "</h3>" +
-        '<p class="card-meta">' + escapeHtml(v.channel) + " &middot; " + formatDate(v.published, v.date_approx) + "</p>" +
+        '<p class="card-meta">' + escapeHtml(v.channel) + " &middot; " + displayDate(v) + "</p>" +
         '<div class="card-tags">' + tags + "</div>" +
       "</div>" +
     "</article>"
@@ -120,7 +140,7 @@ function openModal(videoId) {
   if (!v) return;
   playerEl.src = "https://www.youtube.com/embed/" + videoId + "?autoplay=1&rel=0";
   modalTitleEl.textContent = v.title;
-  modalMetaEl.textContent = v.channel + " · " + formatDate(v.published, v.date_approx) +
+  modalMetaEl.textContent = v.channel + " · " + displayDate(v) +
     (v.duration ? " · " + v.duration : "");
   modalLinkEl.href = "https://www.youtube.com/watch?v=" + videoId;
   modalEl.hidden = false;
@@ -195,7 +215,7 @@ fetch("data/videos.json")
     return r.json();
   })
   .then(data => {
-    videos = data.slice().sort((a, b) => b.published.localeCompare(a.published));
+    videos = data.slice().sort((a, b) => effDate(b).localeCompare(effDate(a)));
     renderTagChips();
     render();
   })

@@ -18,7 +18,8 @@ data/
   sources.json      Every channel referenced by the roundup shows (and direct
                     requests), with first-reference info and reference counts
   videos.json       Curated live feed [{video_id, title, channel, channel_handle,
-                    published, category, tags[], duration?}]
+                    published, category, tags[], duration?, original_date?,
+                    original_date_precision?}]
   pending.json      Curation queue — new uploads waiting for approval
   rejected.json     Video IDs Troy rejected; the updater never re-queues these
 scripts/
@@ -108,5 +109,12 @@ not edits, so the updater would only queue items Troy would reject.
 - Dates marked `date_approx: true` in `videos.json` were derived from
   relative times ("3 weeks ago") or article dates rather than an exact
   publish date; the site shows them with a `~` prefix.
+- Backdated videos (vintage re-uploads, e.g. Premium Rolling films) carry
+  `original_date` (YYYY-MM-DD, the original production date) and
+  `original_date_precision` (`year` / `month` / `day`). `published` keeps
+  the real YouTube upload date. The feed sorts and displays by
+  `original_date` when present: year-precision entries show just the year,
+  month-precision show month + year, day-precision show the full date.
+  The backdate record lives in `data/backdate-log-2026-11-20.json`.
 - All videos are embedded from YouTube and belong to their creators. The
   footer on the site says so, and every card links out to the original.

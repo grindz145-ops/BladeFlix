@@ -284,7 +284,7 @@
     "default_category": "aggressive",
     "handle": "@mushroomblading",
     "name": "Mushroom Blading",
-    "notes": "In updater since site launch (via Spotty Dog sweep). Kamloops BC crew (Todd McInerney, Joey McGarry; Bratteys). Active — MB9 full film Oct 28, 2026. Heavy gear-review/commentary noise; NON_EDIT_RE extended 2026-11-19 for revisit/commentary/testing."
+    "notes": "In updater since site launch (via Spotty Dog sweep). Kamloops BC crew (Todd McInerney, Joey McGarry; Bratteys). Active \u2014 MB9 full film Oct 28, 2026. Heavy gear-review/commentary noise; NON_EDIT_RE extended 2026-11-19 for revisit/commentary/testing."
   },
   {
     "channel_id": "UCbyulMBmwbzr_RqirBeFQbQ",
@@ -536,7 +536,7 @@
     "default_category": "aggressive",
     "handle": "@CJWellsmore",
     "name": "CJ Wellsmore",
-    "notes": "Added 2026-11-19 at Troy's request. Australian USD pro. Active; heavy vlog/diary format (Do The Thing Diaries) — eyeball backfill, queue edits/contests/sessions only."
+    "notes": "Added 2026-11-19 at Troy's request. Australian USD pro. Active; heavy vlog/diary format (Do The Thing Diaries) \u2014 eyeball backfill, queue edits/contests/sessions only."
   },
   {
     "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
@@ -557,7 +557,7 @@
     "default_category": "aggressive",
     "handle": "@jozenk",
     "name": "Jo Zenk",
-    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German Roces pro (Münster); street edits, RAW CUTs, crew sessions. Posts Shorts (Droptober daily Oct 2026) — orientation check needed."
+    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German Roces pro (M\u00fcnster); street edits, RAW CUTs, crew sessions. Posts Shorts (Droptober daily Oct 2026) \u2014 orientation check needed."
   },
   {
     "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
@@ -753,5 +753,33 @@
     "handle": "@Soderburg_official",
     "channel_id": "UCGJWD-NQ4J5mIYqB7oUA4wA",
     "default_category": "aggressive"
+  },
+  {
+    "name": "La Roulette",
+    "handle": "@laroulette2015",
+    "channel_id": "UCyaPQ4xfnG8BhaEQVHII05w",
+    "default_category": "aggressive",
+    "notes": "Troy subscribed on @BladeFlixTV; added 2026-11-20."
+  },
+  {
+    "name": "Parallel Projects",
+    "handle": "@parallel_projects",
+    "channel_id": "UCUJRzhmLLjWTIdbmaDv2MEA",
+    "default_category": "aggressive",
+    "notes": "Troy subscribed on @BladeFlixTV; added 2026-11-20."
+  },
+  {
+    "name": "Andrew Kazlauskas",
+    "handle": "@lauskinit",
+    "channel_id": "UC8IYJtIZt_2s1-gpuDOHvFg",
+    "default_category": "aggressive",
+    "notes": "Troy subscribed on @BladeFlixTV; added 2026-11-20."
+  },
+  {
+    "name": "L.O.W Academy",
+    "handle": "@LOWSkateAcademyDK",
+    "channel_id": "UCW1q4ScadA2l9wn3cVmoj4g",
+    "default_category": "aggressive",
+    "notes": "Troy subscribed on @BladeFlixTV; added 2026-11-20."
   }
 ]

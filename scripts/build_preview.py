@@ -23,7 +23,7 @@ videos = json.load(open(ROOT / "data" / "videos.json"))
 
 boot_start = js.index("// --- Boot ---")
 js = js[:boot_start] + """// --- Boot (preview: data embedded) ---
-videos = VIDEOS.slice().sort((a, b) => b.published.localeCompare(a.published));
+videos = VIDEOS.slice().sort((a, b) => effDate(b).localeCompare(effDate(a)));
 renderTagChips();
 render();
 """

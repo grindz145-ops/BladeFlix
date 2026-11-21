@@ -48,8 +48,9 @@ CUTOFF_DATE = "2025-11-19"
 # Extended 2026-11-19 for Mushroom Blading / Flow Skate noise: gear
 # revisits, commentary tracks, gear tests, lessons, manifestos.
 NON_EDIT_RE = re.compile(
-    r"how to|tutorial|podcast|unboxing|interview|\breview\b|vlog|beginner"
-    r"|revisit|commentary|\btesting\b|\blesson\b|manifesto",
+    r"how to|tutorial|podcast|unboxing|interview|\breviews?\b|vlog|beginner"
+    r"|revisit|commentary|\btesting\b|\blesson\b|manifesto"
+    r"|setups?|teaser|trailer|stream test|worth it|grind position|every grind",
     re.IGNORECASE,
 )
 
