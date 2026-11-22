@@ -8,12 +8,13 @@ const CATEGORY_LABELS = {
   contest: "Contest",
   movies: "Movies",
   podcasts: "Podcasts",
+  vlogs: "Vlogs",
 };
 
 // Categories hidden from the default "All" view (Troy, 2026-11-22):
-// podcasts only show under the Podcasts tab, never in the main feed.
-// "vlogs" joins this set when that category is built.
-const HIDDEN_FROM_ALL = new Set(["podcasts"]);
+// podcasts and vlogs only show under their own tabs, never in the main
+// feed.
+const HIDDEN_FROM_ALL = new Set(["podcasts", "vlogs"]);
 
 let videos = [];
 let activeCategory = "all";

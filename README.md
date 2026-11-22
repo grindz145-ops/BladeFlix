@@ -29,16 +29,15 @@ scripts/
 ## Categories & tags
 
 Categories: `aggressive`, `wizard`, `urban`, `contest`, `movies` (full-length
-films), `podcasts`. Contest coverage has its own category (Troy, 2026-11-18); do not use
+films), `podcasts`, `vlogs`. Contest coverage has its own category (Troy, 2026-11-18); do not use
 the `contest` tag — the category covers it. "Comp" in a title means
 competition (Troy, 2026-11-19), matched as a whole word. Movies has no strict length
 cutoff: anything longer than a short "section" or "edit" belongs there
 (Troy, 2026-11-18).
 
-**Podcasts are hidden from the default All view** (Troy, 2026-11-22): they
-only show under the Podcasts tab, never in the main feed — see
-`HIDDEN_FROM_ALL` in `app.js`. The planned `vlogs` category will work the
-same way when it is built.
+**Podcasts and vlogs are hidden from the default All view** (Troy, 2026-11-22): they
+only show under their own tabs, never in the main feed — see
+`HIDDEN_FROM_ALL` in `app.js`.
 
 Tags: `street`, `park`, `vert`, `mushroom`, `big-wheel`, `documentary`,
 `edit`. (`vlog`, `review`, `tutorial` are retired — those videos are excluded
@@ -73,7 +72,9 @@ borderline categories get run by Troy for a yes/no.
    (exempt from the cutoff and the topical-title filter); a channel with
    `"podcast_titles"` (regex) queues matching titles as podcasts;
    `"podcast_only": true` skips that channel's non-matching uploads
-   entirely. The `bladeflix-feed-watch` cron runs this daily
+   entirely. Vlogs work the same way with `"vlog"`, `"vlog_titles"` and
+   `"vlog_only"` (e.g. Hawke Trackler's Tiny series, CJ Wellsmore's Do
+   The Thing Diaries). The `bladeflix-feed-watch` cron runs this daily
    (~09:45 local) and reports new queue items to Troy; it stays silent
    when nothing new appears.
 

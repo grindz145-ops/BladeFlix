@@ -31,6 +31,12 @@ rest through the normal rules — unless "podcast_only" is set, which
 skips non-matching uploads entirely (e.g. Endless Blading Co., where
 only the Endless Blading Show belongs on BladeFlix).
 
+Vlogs (Troy, 2026-11-22) work the same way in their own category,
+also hidden from the default All view. Channels flagged "vlog" queue
+every new upload as vlogs; "vlog_titles" regex queues matching titles
+as vlogs (e.g. Hawke Trackler's Tiny series, CJ Wellsmore's Do The
+Thing Diaries); "vlog_only" skips non-matching uploads entirely.
+
 Channel IDs live in channels.json. To resolve a new @handle to its
 channel ID: yt-dlp --print "%(channel_id)s" --playlist-end 1
 https://www.youtube.com/<handle>/videos
@@ -188,9 +194,17 @@ def main():
             podcast_titles_re = channel.get("podcast_titles")
             is_podcast_title = bool(podcast_titles_re) and bool(
                 re.search(podcast_titles_re, title, re.IGNORECASE))
+            is_vlog_channel = channel.get("vlog") is True
+            vlog_titles_re = channel.get("vlog_titles")
+            is_vlog_title = bool(vlog_titles_re) and bool(
+                re.search(vlog_titles_re, title, re.IGNORECASE))
             if is_podcast_channel or is_podcast_title:
                 suggested_category = "podcasts"
             elif channel.get("podcast_only") is True:
+                continue
+            elif is_vlog_channel or is_vlog_title:
+                suggested_category = "vlogs"
+            elif channel.get("vlog_only") is True:
                 continue
             else:
                 # Intake filters (Troy's curation rules): last 12 months

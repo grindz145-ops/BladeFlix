@@ -82,7 +82,7 @@ def main():
         # Podcast episodes are topical by nature — the title filter does
         # not apply to them (Troy, 2026-11-22). The vertical and
         # under-2-minutes rules still apply.
-        if v.get("suggested_category") != "podcasts" and NON_EDIT_RE.search(v["title"]):
+        if v.get("suggested_category") not in ("podcasts", "vlogs") and NON_EDIT_RE.search(v["title"]):
             reasons.append("topical/non-edit title")
         m = meta.get(vid)
         if m is None:

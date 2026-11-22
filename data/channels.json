@@ -179,7 +179,8 @@
     "default_category": "aggressive",
     "handle": "@HawkeTrackler",
     "name": "Hawke Trackler",
-    "notes": "Referenced by This Week in Blade (2026-02-02); added in back-catalog sweep 2026-11-18."
+    "notes": "Tiny numbered episodes go to vlogs; edits/films/contest coverage through normal rules.",
+    "vlog_titles": "Tiny - Episode"
   },
   {
     "channel_id": "UCJVnIhBMc38HY1AApfvvQiQ",
@@ -412,7 +413,7 @@
     "default_category": "aggressive",
     "handle": "@spookwackadoo",
     "name": "Spook Wackadoo",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "Vlogs have no title pattern; new uploads surface through normal rules and get recategorized to vlogs at review."
   },
   {
     "channel_id": "UCo1HbgTeTfncgT3x6AeUD-Q",
@@ -538,28 +539,32 @@
     "default_category": "aggressive",
     "handle": "@CJWellsmore",
     "name": "CJ Wellsmore",
-    "notes": "Added 2026-11-19 at Troy's request. Australian USD pro. Active; heavy vlog/diary format (Do The Thing Diaries) — eyeball backfill, queue edits/contests/sessions only."
+    "notes": "Do The Thing Diaries + other vlogs go to vlogs; straight edits stay out (Troy rejected all 8 in review round 5).",
+    "vlog_titles": "Do The Thing Diaries"
   },
   {
     "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
     "default_category": "aggressive",
     "handle": "@PlasticPushers",
     "name": "Plastic Pushers",
-    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). Dutch crew; full-length films, B-roll rider profiles, Dutch National Championship 2026."
+    "notes": "Vlog-titled videos + BLAFFENDE HONDEN series go to vlogs; films/edits through normal rules.",
+    "vlog_titles": "vlog|BLAFFENDE HONDEN"
   },
   {
     "channel_id": "UCnI-UtGPH3cOn4j7sdc8voA",
     "default_category": "aggressive",
     "handle": "@BorklynZoo",
     "name": "Borklyn Zoo",
-    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German crew (Daniel Enin); long-form BZ Schabernack street edits."
+    "notes": "BZ Schabernack session series goes to vlogs (Eugen Enin features; he has no personal channel). Edits/films through normal rules.",
+    "vlog_titles": "Schabernack"
   },
   {
     "channel_id": "UC9FKEIseZYSciqXY-0FFWag",
     "default_category": "aggressive",
     "handle": "@jozenk",
     "name": "Jo Zenk",
-    "notes": "Added 2026-11-19 at Troy's request (algorithm discovery). German Roces pro (Münster); street edits, RAW CUTs, crew sessions. Posts Shorts (Droptober daily Oct 2026) — orientation check needed."
+    "notes": "SENDUNG vlog series goes to vlogs; edits/films through normal rules.",
+    "vlog_titles": "SENDUNG"
   },
   {
     "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
@@ -652,7 +657,9 @@
     "name": "jumbo",
     "handle": "@jumboblading",
     "channel_id": "UC-D22eCj_DaIgwIwQ6CgAMQ",
-    "default_category": "aggressive"
+    "default_category": "vlogs",
+    "vlog": true,
+    "notes": "Vlog-first channel (4 the Streets series, Wednesday Sessions). Occasional Jumbo Podcast episodes queue as vlogs — recategorize at review."
   },
   {
     "name": "Red Eye Wheel Co.",
