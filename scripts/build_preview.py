@@ -49,6 +49,7 @@ html = """<style>""" + css + """</style>
         <button class="tab" data-category="urban">Urban</button>
         <button class="tab" data-category="contest">Contest</button>
         <button class="tab" data-category="movies">Movies</button>
+        <button class="tab" data-category="podcasts">Podcasts</button>
       </nav>
       <div class="search-wrap">
         <input id="search" type="search" placeholder="Search videos…" aria-label="Search videos">

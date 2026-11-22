@@ -7,7 +7,13 @@ const CATEGORY_LABELS = {
   urban: "Urban",
   contest: "Contest",
   movies: "Movies",
+  podcasts: "Podcasts",
 };
+
+// Categories hidden from the default "All" view (Troy, 2026-11-22):
+// podcasts only show under the Podcasts tab, never in the main feed.
+// "vlogs" joins this set when that category is built.
+const HIDDEN_FROM_ALL = new Set(["podcasts"]);
 
 let videos = [];
 let activeCategory = "all";
@@ -96,6 +102,7 @@ function escapeHtml(s) {
 
 function matchesFilters(v) {
   if (activeCategory !== "all" && v.category !== activeCategory) return false;
+  if (activeCategory === "all" && HIDDEN_FROM_ALL.has(v.category)) return false;
   if (activeTags.size > 0 && !v.tags.some(t => activeTags.has(t))) return false;
   if (searchQuery) {
     const hay = (v.title + " " + v.channel).toLowerCase();
@@ -111,10 +118,15 @@ function render() {
   emptyEl.hidden = filtered.length > 0;
   loadMoreEl.hidden = filtered.length <= visibleCount;
 
-  const total = videos.length;
+  // The "total" for the count line is the size of the current view: the
+  // default feed (hidden categories excluded) for All, the category size
+  // otherwise.
+  const total = activeCategory === "all"
+    ? videos.filter(v => !HIDDEN_FROM_ALL.has(v.category)).length
+    : videos.filter(v => v.category === activeCategory).length;
   const label = activeCategory === "all" ? "videos" : CATEGORY_LABELS[activeCategory].toLowerCase() + " videos";
   if (filtered.length === total && shown.length === filtered.length) {
-    resultCountEl.textContent = total + " videos";
+    resultCountEl.textContent = total + " " + label;
   } else if (shown.length === filtered.length) {
     resultCountEl.textContent = filtered.length + " of " + total + " " + label;
   } else {

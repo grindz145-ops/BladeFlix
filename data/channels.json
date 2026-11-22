@@ -232,10 +232,11 @@
   },
   {
     "channel_id": "UCHQQx7hhssSLJl1UGrh_iiw",
-    "default_category": "aggressive",
+    "default_category": "podcasts",
     "handle": "@jumpstreetpodcast",
     "name": "Jump Street Podcast",
-    "notes": "Austin Paz & Billy O'Neill. YouTube uploads look sparse since late 2025; podcast-first."
+    "notes": "Austin Paz & Billy O'Neill. YouTube uploads look sparse since late 2025; podcast-first. Podcast channel — all uploads queue as podcasts (2026-11-22).",
+    "podcast": true
   },
   {
     "channel_id": "UCu_joyJOX-daVxYFydIXVuw",
@@ -368,7 +369,8 @@
     "default_category": "aggressive",
     "handle": "@ROLLERBLADINGISSTILLFUN",
     "name": "ROLLERBLADING IS STILL FUN",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references. Podcast episodes (titles containing 'Podcast') queue as podcasts; edits follow normal rules (2026-11-22).",
+    "podcast_titles": "podcast"
   },
   {
     "channel_id": "UC-Neqno_omjnPxjDNJ2O6aA",
@@ -786,7 +788,17 @@
     "name": "Today On Inline",
     "handle": "@TodayOnInline",
     "channel_id": "UCk2fMjeqAQK_GtS7aSND1_A",
-    "default_category": "aggressive",
-    "notes": "Added 2026-11-22 at Troy's request."
+    "default_category": "podcasts",
+    "notes": "Added 2026-11-22 at Troy's request. Chat-format show — uploads queue as podcasts (2026-11-22).",
+    "podcast": true
+  },
+  {
+    "channel_id": "UCN2Q-f_-bPODas1N92VItHQ",
+    "default_category": "podcasts",
+    "handle": "@endlessblading",
+    "name": "Endless Blading Co.",
+    "podcast_titles": "Endless Blading Show",
+    "podcast_only": true,
+    "notes": "Brad and Andrew's channel; only the Endless Blading Show episodes belong on BladeFlix (added 2026-11-22 at Troy's request)."
   }
 ]

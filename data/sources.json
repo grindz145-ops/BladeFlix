@@ -309,7 +309,7 @@
     "name": "Jump Street Podcast",
     "handle": "@jumpstreetpodcast",
     "channel_id": "UCHQQx7hhssSLJl1UGrh_iiw",
-    "default_category": "aggressive",
+    "default_category": "podcasts",
     "first_referenced_by": "in channels.json since site launch",
     "first_seen": "2026-11-19",
     "videos_referenced": 0
@@ -1065,7 +1065,16 @@
     "name": "Today On Inline",
     "handle": "@TodayOnInline",
     "channel_id": "UCk2fMjeqAQK_GtS7aSND1_A",
-    "default_category": "aggressive",
+    "default_category": "podcasts",
+    "first_referenced_by": "Troy direct request; added 2026-11-22",
+    "first_seen": "2026-11-22",
+    "videos_referenced": 0
+  },
+  {
+    "name": "Endless Blading Co.",
+    "handle": "@endlessblading",
+    "channel_id": "UCN2Q-f_-bPODas1N92VItHQ",
+    "default_category": "podcasts",
     "first_referenced_by": "Troy direct request; added 2026-11-22",
     "first_seen": "2026-11-22",
     "videos_referenced": 0

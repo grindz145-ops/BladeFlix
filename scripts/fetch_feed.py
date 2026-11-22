@@ -22,6 +22,15 @@ entries are NOT added to rejected.json, so a future rule change can
 still surface them; entries Troy rejects by hand go in rejected.json
 and are never re-queued.
 
+Podcasts (Troy, 2026-11-22) live in their own category, hidden from the
+default All view on the site. Channels flagged "podcast" in channels.json
+post podcast episodes only — every new upload queues as podcasts, exempt
+from the cutoff and the NON_EDIT_RE filter. Channels with a
+"podcast_titles" regex queue matching titles as podcasts and run the
+rest through the normal rules — unless "podcast_only" is set, which
+skips non-matching uploads entirely (e.g. Endless Blading Co., where
+only the Endless Blading Show belongs on BladeFlix).
+
 Channel IDs live in channels.json. To resolve a new @handle to its
 channel ID: yt-dlp --print "%(channel_id)s" --playlist-end 1
 https://www.youtube.com/<handle>/videos
@@ -166,20 +175,37 @@ def main():
             video_id = entry["video_id"]
             if video_id in known_ids:
                 continue
-            # Intake filters (Troy's curation rules): last 12 months
-            # only, unless it looks like a full-length film; no
-            # tutorials, podcasts, reviews, interviews or vlogs.
-            title_lower = entry["title"].lower()
-            published = entry.get("published", "")
-            if published and published < CUTOFF_DATE and not FULL_LENGTH_RE.search(entry["title"]):
+            # Podcast handling (Troy, 2026-11-22): channels flagged
+            # "podcast" post podcast episodes only — every new upload
+            # queues as podcasts, exempt from the cutoff and the
+            # NON_EDIT_RE filter (podcasts are topical by nature).
+            # Channels with "podcast_titles" queue matching titles as
+            # podcasts and run the rest through the normal rules —
+            # unless "podcast_only" is set, which skips non-matching
+            # uploads entirely.
+            title = entry["title"]
+            is_podcast_channel = channel.get("podcast") is True
+            podcast_titles_re = channel.get("podcast_titles")
+            is_podcast_title = bool(podcast_titles_re) and bool(
+                re.search(podcast_titles_re, title, re.IGNORECASE))
+            if is_podcast_channel or is_podcast_title:
+                suggested_category = "podcasts"
+            elif channel.get("podcast_only") is True:
                 continue
-            if NON_EDIT_RE.search(entry["title"]):
-                continue
-            # Contest videos get their own category (Troy, 2026-11-18).
-            if CONTEST_RE.search(entry["title"]):
-                suggested_category = "contest"
             else:
-                suggested_category = channel.get("default_category", "aggressive")
+                # Intake filters (Troy's curation rules): last 12 months
+                # only, unless it looks like a full-length film; no
+                # tutorials, podcasts, reviews, interviews or vlogs.
+                published = entry.get("published", "")
+                if published and published < CUTOFF_DATE and not FULL_LENGTH_RE.search(title):
+                    continue
+                if NON_EDIT_RE.search(title):
+                    continue
+                # Contest videos get their own category (Troy, 2026-11-18).
+                if CONTEST_RE.search(title):
+                    suggested_category = "contest"
+                else:
+                    suggested_category = channel.get("default_category", "aggressive")
             pending.append({
                 "video_id": video_id,
                 "title": entry["title"],

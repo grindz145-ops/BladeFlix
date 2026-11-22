@@ -29,11 +29,16 @@ scripts/
 ## Categories & tags
 
 Categories: `aggressive`, `wizard`, `urban`, `contest`, `movies` (full-length
-films). Contest coverage has its own category (Troy, 2026-11-18); do not use
+films), `podcasts`. Contest coverage has its own category (Troy, 2026-11-18); do not use
 the `contest` tag — the category covers it. "Comp" in a title means
 competition (Troy, 2026-11-19), matched as a whole word. Movies has no strict length
 cutoff: anything longer than a short "section" or "edit" belongs there
 (Troy, 2026-11-18).
+
+**Podcasts are hidden from the default All view** (Troy, 2026-11-22): they
+only show under the Podcasts tab, never in the main feed — see
+`HIDDEN_FROM_ALL` in `app.js`. The planned `vlogs` category will work the
+same way when it is built.
 
 Tags: `street`, `park`, `vert`, `mushroom`, `big-wheel`, `documentary`,
 `edit`. (`vlog`, `review`, `tutorial` are retired — those videos are excluded
@@ -63,7 +68,12 @@ borderline categories get run by Troy for a yes/no.
    running it twice adds nothing the second time. Channels with
    `channel_id: null` are skipped; the RSS endpoint needs the channel ID,
    not the @handle. Add the ID to `channels.json` and the channel is picked
-   up on the next run. The `bladeflix-feed-watch` cron runs this daily
+   up on the next run. Podcast channels are handled specially: a channel
+   flagged `"podcast": true` queues every new upload as `podcasts`
+   (exempt from the cutoff and the topical-title filter); a channel with
+   `"podcast_titles"` (regex) queues matching titles as podcasts;
+   `"podcast_only": true` skips that channel's non-matching uploads
+   entirely. The `bladeflix-feed-watch` cron runs this daily
    (~09:45 local) and reports new queue items to Troy; it stays silent
    when nothing new appears.
 
