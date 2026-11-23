@@ -1078,5 +1078,23 @@
     "first_referenced_by": "Troy direct request; added 2026-11-22",
     "first_seen": "2026-11-22",
     "videos_referenced": 0
+  },
+  {
+    "name": "BLADING on The Brain",
+    "handle": "@BladingOnTheBrain",
+    "channel_id": "UCY_6h0L8kv3xhEOJXprIXhg",
+    "default_category": "aggressive",
+    "first_referenced_by": "Troy direct request; added 2026-11-23",
+    "first_seen": "2026-11-23",
+    "videos_referenced": 0
+  },
+  {
+    "name": "Jan Welch",
+    "handle": "@JanWelch",
+    "channel_id": "UCvWxxgQZzioPIxLfDpHCWsQ",
+    "default_category": "aggressive",
+    "first_referenced_by": "Troy direct request; added 2026-11-23",
+    "first_seen": "2026-11-23",
+    "videos_referenced": 0
   }
 ]

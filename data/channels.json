@@ -828,5 +828,20 @@
     "podcast_titles": "Endless Blading Show",
     "podcast_only": true,
     "notes": "Brad and Andrew's channel; only the Endless Blading Show episodes belong on BladeFlix (added 2026-11-22 at Troy's request)."
+  },
+  {
+    "channel_id": "UCY_6h0L8kv3xhEOJXprIXhg",
+    "default_category": "aggressive",
+    "handle": "@BladingOnTheBrain",
+    "name": "BLADING on The Brain",
+    "notes": "Kennan Scott. Mixed channel (sessions, product reviews, TBI recovery content); 26 discussion/reaction videos swept to podcasts 2026-11-23 at Troy's request (edit reviews, Community Cup judging, live reactions). No podcast_titles flag: edit-review titles are indistinguishable from product-review titles, so future uploads surface through normal review."
+  },
+  {
+    "channel_id": "UCvWxxgQZzioPIxLfDpHCWsQ",
+    "default_category": "aggressive",
+    "handle": "@JanWelch",
+    "name": "Jan Welch",
+    "podcast_titles": "Then And Now Podcast|Let's Talk Rollerblading|Blading Talk",
+    "notes": "Archival channel (classic clips, remasters). Then And Now Podcast 36 + Let's Talk Rollerblading 8 + Blading Talk 3 swept to podcasts 2026-11-23 at Troy's request. The Vault (17 eps) held for Troy's call."
   }
 ]
