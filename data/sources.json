@@ -1096,5 +1096,14 @@
     "first_referenced_by": "Troy direct request; added 2026-11-23",
     "first_seen": "2026-11-23",
     "videos_referenced": 0
+  },
+  {
+    "name": "NISSTV",
+    "handle": "@NissTV8",
+    "channel_id": "UC0wgDtL4-zaWUfih0IRj1DQ",
+    "default_category": "contest",
+    "first_referenced_by": "Troy direct request; added 2026-11-23",
+    "first_seen": "2026-11-23",
+    "videos_referenced": 0
   }
 ]

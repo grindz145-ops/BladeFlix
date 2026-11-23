@@ -1896,6 +1896,15 @@
     "tags": []
   },
   {
+    "video_id": "qCKYr9QOxfI",
+    "title": "Captains of Concrete - CAPCON | NISS TV | Season 2 Episode 2",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2026-06-17",
+    "category": "contest",
+    "tags": []
+  },
+  {
     "category": "aggressive",
     "channel": "Plastic Pushers",
     "published": "2026-06-14",
@@ -2190,6 +2199,15 @@
     "tags": []
   },
   {
+    "video_id": "3GpW1y6Sx98",
+    "title": "Crowder Power V | NISS TV | Season 2 Episode 1",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2026-05-05",
+    "category": "contest",
+    "tags": []
+  },
+  {
     "category": "aggressive",
     "channel": "Bodega Boys NYC",
     "published": "2026-05-04",
@@ -2397,6 +2415,15 @@
     "channel_handle": "@mft225"
   },
   {
+    "video_id": "CVM-WI4zGb0",
+    "title": "Carrier's Open | NISS TV | Episode 6",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2026-04-17",
+    "category": "contest",
+    "tags": []
+  },
+  {
     "category": "aggressive",
     "channel": "Wheel Scene",
     "published": "2026-04-16",
@@ -2502,6 +2529,15 @@
     "title": "Jona Seufferheld ✦ Standard Skate Company",
     "video_id": "ZkwVwpfbrhA",
     "channel_handle": "@StandardSkateCo"
+  },
+  {
+    "video_id": "B_W-q70bbn0",
+    "title": "Franky Morales Invitational 6 | FMI6 | NISS TV | Episode 5",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2026-04-06",
+    "category": "contest",
+    "tags": []
   },
   {
     "category": "aggressive",
@@ -3408,6 +3444,24 @@
     "channel_handle": "@PlasticPushers",
     "published": "2026-01-13",
     "category": "vlogs",
+    "tags": []
+  },
+  {
+    "video_id": "2gRKMOaCSBs",
+    "title": "Metro Card Classic | NISS TV | Episode 4",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2026-01-13",
+    "category": "contest",
+    "tags": []
+  },
+  {
+    "video_id": "h_y4kTS4Hd4",
+    "title": "Mile High Battle 2025 | NISS TV | Episode 5",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2026-01-12",
+    "category": "contest",
     "tags": []
   },
   {
@@ -4438,6 +4492,24 @@
     "channel_handle": "@JanWelch",
     "published": "2025-09-24",
     "category": "podcasts",
+    "tags": []
+  },
+  {
+    "video_id": "XL-GM-vrHTg",
+    "title": "NISS TV Episode 2 | Windy City Riot",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2025-09-24",
+    "category": "contest",
+    "tags": []
+  },
+  {
+    "video_id": "r3FEkGQmCGE",
+    "title": "NISS TV   Episode 1 | Captains of Concrete | Hapeville GA",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2025-09-23",
+    "category": "contest",
     "tags": []
   },
   {
@@ -20089,6 +20161,28 @@
     "title": "Baking Cookies VHS - Angry Youth Cinema - Aggressive Inline Skating",
     "video_id": "OKE7DcNzIsI",
     "original_date": "1995-01-01",
+    "original_date_precision": "year"
+  },
+  {
+    "video_id": "CA0nD-EPtpw",
+    "title": "1994 NISS Episode 1 || Taco Bell National Inline Skate Series || Pacific Palisades, CA",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2025-06-02",
+    "category": "contest",
+    "tags": [],
+    "original_date": "1994-01-01",
+    "original_date_precision": "year"
+  },
+  {
+    "video_id": "HkuS_Mwq1gA",
+    "title": "1994 NISS Taco Bell National In Line Skate Series Show #2 Venice Beach, CA ESPN 2",
+    "channel": "NISSTV",
+    "channel_handle": "@NissTV8",
+    "published": "2025-07-19",
+    "category": "contest",
+    "tags": [],
+    "original_date": "1994-01-01",
     "original_date_precision": "year"
   }
 ]
