@@ -6,6 +6,9 @@
   <title>BladeFlix — Aggressive Rollerblading Videos</title>
   <meta name="description" content="BladeFlix: a curated feed of the newest aggressive rollerblading, wizard skating and urban skating videos — plus a full-length movie library, a podcast section and a vlog section.">
   <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#141414">
+  <link rel="apple-touch-icon" href="images/icon-192.png">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -82,5 +85,12 @@
   </div>
 
   <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('sw.js').catch(function() {});
+      });
+    }
+  </script>
 </body>
 </html>

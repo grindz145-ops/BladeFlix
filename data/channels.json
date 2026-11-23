@@ -342,7 +342,8 @@
     "default_category": "aggressive",
     "handle": "@ricardolino",
     "name": "Ricardo Lino",
-    "notes": "FlyingEagle brand manager; tutorials, contest coverage (Winterclash, Blading Cup), reviews."
+    "notes": "FlyingEagle brand manager; tutorials, contest coverage (Winterclash, Blading Cup), reviews. SKATE TALK interview show goes to podcasts (Ep 1-32 + LIVE + S2E1 + Adrien Anne).",
+    "podcast_titles": "SKATE TALK"
   },
   {
     "channel_id": "UC_Yi-HfRE0DUXpqe2tNwuzA",
@@ -371,8 +372,9 @@
     "default_category": "urban",
     "handle": "@authenticrollerblade",
     "name": "Rollerblade",
-    "notes": "Diaries + CityExplorer + Freeskate series go to vlogs.",
-    "vlog_titles": "Diaries|CityExplorer|Freeskate in"
+    "notes": "Diaries + CityExplorer + Freeskate series go to vlogs. Rollerblade Podcast episodes go to podcasts (Ep 1-7).",
+    "vlog_titles": "Diaries|CityExplorer|Freeskate in",
+    "podcast_titles": "Rollerblade.*Podcast"
   },
   {
     "channel_id": "UCDv_bQeVwdPykjQZ3TaiBrw",
@@ -522,7 +524,8 @@
     "default_category": "aggressive",
     "handle": "@wheelsceneblading",
     "name": "Wheel Scene",
-    "notes": "David McNamara; Scottish skatepark tours, skate reviews, Platform podcast."
+    "notes": "David McNamara; Scottish skatepark tours, skate reviews, Platform podcast. Platform interview show goes to podcasts (Ep 1-92, Ep 45 missing).",
+    "podcast_titles": "Platform"
   },
   {
     "channel_id": "UCf5jRf3CSi6ANPj_e93GKpg",
