@@ -87,9 +87,9 @@
   <script src="app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
-        navigator.serviceWorker.register('sw.js').catch(function() {});
-      });
+      // Absolute path + explicit scope: Android Chrome's installability
+      // check is strict about the worker's scope covering start_url.
+      navigator.serviceWorker.register('/sw.js', { scope: '/' }).catch(function() {});
     }
   </script>
 </body>

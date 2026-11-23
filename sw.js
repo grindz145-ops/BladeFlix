@@ -4,7 +4,7 @@
 // when offline. Third-party requests (YouTube embeds, thumbnails,
 // the hit counter) always go straight to the network.
 
-const CACHE = 'bladeflix-v1';
+const CACHE = 'bladeflix-v2';
 const CORE_ASSETS = [
   '/',
   '/index.html',
@@ -19,9 +19,14 @@ const CORE_ASSETS = [
 ];
 
 self.addEventListener('install', (event) => {
+  // Cache each asset individually: cache.addAll() is atomic, so one
+  // flaky fetch would fail the whole install and leave the worker
+  // unregistered. A partial shell still beats no worker.
   event.waitUntil(
     caches.open(CACHE)
-      .then((cache) => cache.addAll(CORE_ASSETS))
+      .then((cache) => Promise.allSettled(
+        CORE_ASSETS.map((url) => cache.add(url))
+      ))
       .then(() => self.skipWaiting())
   );
 });
