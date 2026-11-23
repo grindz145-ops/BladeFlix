@@ -18,21 +18,23 @@
     "default_category": "aggressive",
     "handle": "@backtoblading",
     "name": "Back to Blading",
-    "notes": "Return-to-skating vlog plus the Gear Talk series."
+    "notes": "Vlogs have no title pattern (free-form session/trip titles); new uploads surface through normal rules and get recategorized to vlogs at review."
   },
   {
     "channel_id": "UCp0VcHDRMfof2wCod5vF6rQ",
     "default_category": "urban",
     "handle": "@billstoppard",
     "name": "Bill Stoppard",
-    "notes": "Bill Stoppard Skating BSS; city/urban skating, Endless frames."
+    "notes": "Numbered VLOG series goes to vlogs (gear-showcase/tips episodes get tapped out at review).",
+    "vlog_titles": "vlog"
   },
   {
     "channel_id": "UCQhs1oE375c-OlqZGX1EN_A",
     "default_category": "aggressive",
     "handle": "@BINY_Channel",
     "name": "BINY",
-    "notes": "Added 2026-11-19 at Troy's request (sources research)."
+    "notes": "Vlog-titled + day-by-day event coverage (Skater Migration, Big Apple Roll, Big Avocado Roll) go to vlogs.",
+    "vlog_titles": "vlog|Skater Migration|Big Apple Roll|Big Avocado Roll"
   },
   {
     "channel_id": "UC-Npvp3omJGSjUCr1kmncIQ",
@@ -123,7 +125,8 @@
     "default_category": "aggressive",
     "handle": "@dynovfr",
     "name": "DynoVfr",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "Behind the Trick + Road to Dyno series go to vlogs.",
+    "vlog_titles": "Behind the Trick|Road to Dyno|Rtd"
   },
   {
     "channel_id": "UCcPta_VvXg6r7MX0cY7FbQw",
@@ -172,7 +175,8 @@
     "default_category": "aggressive",
     "handle": "@Ghettocommunity1",
     "name": "Ghetto Community",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "Whats Duh Vibez + DAY IN THE LIFE series go to vlogs.",
+    "vlog_titles": "Whats Duh Vibez|DAY IN THE LIFE"
   },
   {
     "channel_id": "UC3GqSMBn9NC2iBQvHOB9eXA",
@@ -194,7 +198,8 @@
     "default_category": "aggressive",
     "handle": "@HyperMike",
     "name": "Hyper Mike",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "Skatin with Hype series goes to vlogs.",
+    "vlog_titles": "Skatin with Hype"
   },
   {
     "channel_id": "UCKhiamCHH3febHhiYRrNq8g",
@@ -208,7 +213,8 @@
     "default_category": "urban",
     "handle": "@IQONBRAND",
     "name": "IQON BRAND",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "IQON TOUR series + day-in-the-life videos go to vlogs.",
+    "vlog_titles": "IQON TOUR|day in a life"
   },
   {
     "channel_id": "UC6JvzGXdfcUU_w84T8c3GFw",
@@ -279,7 +285,8 @@
     "default_category": "aggressive",
     "handle": "@MoonshineUHMW",
     "name": "Moonshine UHMW",
-    "notes": "Referenced by Spotty Dog (Tom Moyse) (2025-11-21); added in back-catalog sweep 2026-11-18."
+    "notes": "Vlog-titled videos go to vlogs.",
+    "vlog_titles": "vlog"
   },
   {
     "channel_id": "UCGTDZcpOPYLYfUAGz4YdpXg",
@@ -342,7 +349,8 @@
     "default_category": "aggressive",
     "handle": "@RobKellett",
     "name": "Rob Kellett",
-    "notes": "Added 2026-11-18 from TWIB/Spotty Dog references."
+    "notes": "Vlog-titled videos go to vlogs (CHINA TIMES - VLOG series + one-offs).",
+    "vlog_titles": "vlog"
   },
   {
     "channel_id": "UCHx2p-8tTtTDtSJyOQIkOOA",
@@ -363,7 +371,8 @@
     "default_category": "urban",
     "handle": "@authenticrollerblade",
     "name": "Rollerblade",
-    "notes": "Official Rollerblade channel; mostly urban/fitness with some aggressive-adjacent team edits."
+    "notes": "Diaries + CityExplorer + Freeskate series go to vlogs.",
+    "vlog_titles": "Diaries|CityExplorer|Freeskate in"
   },
   {
     "channel_id": "UCDv_bQeVwdPykjQZ3TaiBrw",
@@ -434,7 +443,8 @@
     "default_category": "aggressive",
     "handle": "@themskates",
     "name": "THEM Skates",
-    "notes": "Jon Julio's brand; also hosts Danny Beer's videos. Channel ID not surfaced by page fetches."
+    "notes": "THEM JOURNAL trip videos go to vlogs.",
+    "vlog_titles": "JOURNAL"
   },
   {
     "channel_id": "UCRlkUjI5wNs9kKOcUHZmGbg",
@@ -490,7 +500,8 @@
     "default_category": "aggressive",
     "handle": "@usdskatesofficial",
     "name": "USD Skates",
-    "notes": "Official USD channel. Channel ID not surfaced by page fetches (only the truncated prefix UCQKRv2Jav...); the RSS updater skips this channel until the full ID is added."
+    "notes": "USD Vlog series + Lomax abroad vlogs + travel diaries go to vlogs.",
+    "vlog_titles": "vlog|diary"
   },
   {
     "channel_id": "UC6KBtUqT28b3d2ToPQ9-cMA",
@@ -597,7 +608,9 @@
     "name": "Blank Rolling Products",
     "handle": "@blankrollingproducts597",
     "channel_id": "UCvlWEWhctjaOawbUbrRlhoA",
-    "default_category": "aggressive"
+    "default_category": "aggressive",
+    "vlog_titles": "Team Trip",
+    "notes": "Team Trip videos go to vlogs."
   },
   {
     "name": "BONG LEACH",
@@ -651,7 +664,9 @@
     "name": "HoodPandaTV",
     "handle": "@hoodpanda",
     "channel_id": "UCUhsnX5zgjSwcpJrzxOjI5A",
-    "default_category": "aggressive"
+    "default_category": "aggressive",
+    "vlog_titles": "HOOD PANDA TV|Sk8nstuff",
+    "notes": "HOOD PANDA TV + Sk8nstuff series go to vlogs."
   },
   {
     "name": "jumbo",
@@ -719,7 +734,9 @@
     "name": "Watermelon Roll TV",
     "handle": "@WatermelonRollTV",
     "channel_id": "UCMnnju8WgIj5pNtmpxJhiPQ",
-    "default_category": "aggressive"
+    "default_category": "aggressive",
+    "vlog_titles": "vlog",
+    "notes": "VLOG series goes to vlogs."
   },
   {
     "name": "Official Sunday Brunch",
@@ -789,7 +806,8 @@
     "handle": "@LOWSkateAcademyDK",
     "channel_id": "UCW1q4ScadA2l9wn3cVmoj4g",
     "default_category": "aggressive",
-    "notes": "Troy subscribed on @BladeFlixTV; added 2026-11-20."
+    "notes": "Numbered Vlog series goes to vlogs.",
+    "vlog_titles": "Vlog"
   },
   {
     "name": "Today On Inline",
