@@ -1,1109 +1,1127 @@
 [
-  {
-    "name": "Angled Souls",
-    "handle": "@angledsouls",
-    "channel_id": "UCFKjJzOPk-Ggw4imAaEdy4g",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "bacemint",
-    "handle": "@bacemint",
-    "channel_id": "UCItK3eiQK4TBXrgODyRgcjw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy direct request 2026-11-18",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 6
-  },
-  {
-    "name": "Back to Blading",
-    "handle": "@backtoblading",
-    "channel_id": "UCWuWxe37l9_cqgHFwtICixg",
-    "default_category": "aggressive",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Bill Stoppard",
-    "handle": "@billstoppard",
-    "channel_id": "UCp0VcHDRMfof2wCod5vF6rQ",
-    "default_category": "urban",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "BINY",
-    "handle": "@BINY_Channel",
-    "channel_id": "UCQhs1oE375c-OlqZGX1EN_A",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Bodega Boys NYC",
-    "handle": "@BodegaBoysNYC",
-    "channel_id": "UC-Npvp3omJGSjUCr1kmncIQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-05-15",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Brisbane City Skate",
-    "handle": "@BrisbaneCitySkate",
-    "channel_id": "UC11g5Nlag47inKA2eliwmxA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-04-20",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Burza Torden",
-    "handle": "@burzatorden",
-    "channel_id": "UCRzd5SM2jNcSSzkpzxB2Hiw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-09",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "BUTTER TV",
-    "handle": "@BUTTERTV",
-    "channel_id": "UCow2WwGflulBal7grfhlo7A",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Cody Lampman",
-    "handle": "@codydavidlampman",
-    "channel_id": "UCZ9FKBOG2WSs6Gns8UQu9pA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Contempoline",
-    "handle": "@Contempoline",
-    "channel_id": "UClbdLNIymQiJKgUvbtYELZg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-12-09",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Cougar Skates",
-    "handle": "@CougarSkates-m7g",
-    "channel_id": "UC6D5V5K05-yRUKWKG1gOSIg",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-03-09",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Create Originals",
-    "handle": "@createoriginals",
-    "channel_id": "UCiqzCbmQrx_lRYdalfWW67g",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-11-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Daniel Scarano",
-    "handle": "@Daniel_Scarano",
-    "channel_id": "UCbrnYRhdHografXStcEbE-w",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Danny Malm",
-    "handle": "@freak4thestreets",
-    "channel_id": "UCcA10p9MYKtVSFRNTiZz0qw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-06-30",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "DEAD.wheels",
-    "handle": "@DEADwheels",
-    "channel_id": "UCMWhPFS6LhuBi3xa11LYwGw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-26",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Dream Urethane",
-    "handle": "@dreamurethane",
-    "channel_id": "UCsH4wmFLnIirAmS2mAPIl1A",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-26",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "DynoVfr",
-    "handle": "@dynovfr",
-    "channel_id": "UCneQp1A5dAwAH0hAnY_kTdg",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Echo Skates",
-    "handle": "@echoskatesofficial",
-    "channel_id": "UCcPta_VvXg6r7MX0cY7FbQw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Faction Skate Company",
-    "handle": "@factionskatecompany4016",
-    "channel_id": "UCsUg8hiIWzij7GqWmXpfCxg",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-07-06",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "feet blading",
-    "handle": "@feetblading",
-    "channel_id": "UCusSgfFoGO3eUkTNCQV8d4g",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "FR Skates",
-    "handle": "@FRSkates",
-    "channel_id": "UCCSM4nJac_YqW6l9uNdL35g",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-08-24",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Full Frame Productions",
-    "handle": "@fullframepro",
-    "channel_id": "UC12ytgWUFLic6bOF_LWyA3A",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Get Rollin",
-    "handle": "@getrollin",
-    "channel_id": "UCqDVltg2On3EWdJsGVIl8nw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy request 2026-11-18",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Ghetto Community",
-    "handle": "@Ghettocommunity1",
-    "channel_id": "UCfRYRYAYeP1T9gkb20cYAcQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-06",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Hawke Trackler",
-    "handle": "@HawkeTrackler",
-    "channel_id": "UC3GqSMBn9NC2iBQvHOB9eXA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Hedonskate",
-    "handle": "@hedonskate",
-    "channel_id": "UCJVnIhBMc38HY1AApfvvQiQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "HJJ",
-    "handle": "@HJJallday",
-    "channel_id": "UCjgEZunp4ueKYqr93PyWxgw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-03-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Hyper Mike",
-    "handle": "@HyperMike",
-    "channel_id": "UC6TciqjkUg8pdoi2zljkxIg",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Inferno Skate",
-    "handle": "@Inferno_Skate",
-    "channel_id": "UCKhiamCHH3febHhiYRrNq8g",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-09",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "IQON BRAND",
-    "handle": "@IQONBRAND",
-    "channel_id": "UCNEwCqBdu2L3JfSXbNhPgZw",
-    "default_category": "urban",
-    "first_referenced_by": "This Week in Blade 2026-07-20",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Jonas Hansson",
-    "handle": "@BONEJONAS",
-    "channel_id": "UC6JvzGXdfcUU_w84T8c3GFw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Jordan Williams",
-    "handle": "@whatswrong_withme",
-    "channel_id": "UCn63T3znFYTPHRScjWePHCg",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-05",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Julian Bah",
-    "handle": "@julianbah",
-    "channel_id": "UCpTlBL4Q6djTey4uDBEvRIg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Jump Street Podcast",
-    "handle": "@jumpstreetpodcast",
-    "channel_id": "UCHQQx7hhssSLJl1UGrh_iiw",
-    "default_category": "podcasts",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Kizer Frames",
-    "handle": "@kizerframes",
-    "channel_id": "UCu_joyJOX-daVxYFydIXVuw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "krispiess",
-    "handle": "@krispiess",
-    "channel_id": "UCdeCrclssdxhCd8eENfbtuQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-16",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Magic Boots",
-    "handle": "@MagicBootsTV",
-    "channel_id": "UCvj8296fIKXH0dz8D6nyMig",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-06-30",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Mesmer Skate Brand",
-    "handle": "@mesmerskatebrand7752",
-    "channel_id": "UChIug8O_HC-WKFXCnpZKw9g",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "MFT",
-    "handle": "@mft225",
-    "channel_id": "UCBfyZmcXH6om7Ykqb2-eCsA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-11-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Moonshine UHMW",
-    "handle": "@MoonshineUHMW",
-    "channel_id": "UCzwyucj22NfHTqZgaG-Gx8w",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Mushroom Blading",
-    "handle": "@MushroomBlading",
-    "channel_id": "UCGTDZcpOPYLYfUAGz4YdpXg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21; confirmed as Canadian source (Brattey crew, Kamloops BC) 2026-11-19 at Troy's request",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Orange Wheel Company",
-    "handle": "@OrangeWheelCompany",
-    "channel_id": "UCbyulMBmwbzr_RqirBeFQbQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 3
-  },
-  {
-    "name": "Pablo Porta",
-    "handle": "@pabloporta9635",
-    "channel_id": "UC7eGdbBf8bmCvDSU2dd6BhQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-11-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Peoples Studio",
-    "handle": "@peoplesstudio",
-    "channel_id": "UC6ee9oeaNJUY14n7ZAB7X_w",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-04-20",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Per Diems",
-    "handle": "@PerDiems",
-    "channel_id": "UC_LyDYHxBsfCrvWviYLroLA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Powerslide",
-    "handle": "@powerslideinlineskates",
-    "channel_id": "UCWmHFUqLLruJrfR5HpkbkmA",
-    "default_category": "urban",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Razors Skate Co.",
-    "handle": "@RazorsSkateCompany",
-    "channel_id": "UCqY0DV4i2sOfLnyJXikETAQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-12",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 7
-  },
-  {
-    "name": "Ricardo Lino",
-    "handle": "@ricardolino",
-    "channel_id": "UC_cMnM6u3xJ3yeW1jzIHgaQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Rob Kellett",
-    "handle": "@RobKellett",
-    "channel_id": "UC_Yi-HfRE0DUXpqe2tNwuzA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 6
-  },
-  {
-    "name": "ROBBIE PITTS",
-    "handle": "@ROBBIEPITTS",
-    "channel_id": "UCHx2p-8tTtTDtSJyOQIkOOA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Roces",
-    "handle": "@Roces1952",
-    "channel_id": "UCMyl2icbyBIggfoHoJLsmog",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-05-04",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 3
-  },
-  {
-    "name": "Rollerblade",
-    "handle": "@authenticrollerblade",
-    "channel_id": "UCug6hrTtWQxoVKSv8k8ALQg",
-    "default_category": "urban",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "ROLLERBLADING IS STILL FUN",
-    "handle": "@ROLLERBLADINGISSTILLFUN",
-    "channel_id": "UCDv_bQeVwdPykjQZ3TaiBrw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "RollerNews",
-    "handle": "@rollernews",
-    "channel_id": "UC-Neqno_omjnPxjDNJ2O6aA",
-    "default_category": "aggressive",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Sean G.",
-    "handle": "@seang.6901",
-    "channel_id": "UCCWCmz57P8-LrvWJUOjRIVQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-11-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Shred City Skates",
-    "handle": "@ShredCitySkatesKelvW",
-    "channel_id": "UCYm8DuNofGcAVGBsYJWGs3w",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Signature Series",
-    "handle": "@SignatureSeries",
-    "channel_id": "UCghezqxibnd-HhkggSgu6VA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "SMCcom",
-    "handle": "@SMC-kr",
-    "channel_id": "UCu_CQoGQcWuJGMhPLnywPxA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-03",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Spook Wackadoo",
-    "handle": "@spookwackadoo",
-    "channel_id": "UCErUIbVrMwbco7ah6G-XOiQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-09-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Standard Skate Co",
-    "handle": "@StandardSkateCo",
-    "channel_id": "UCo1HbgTeTfncgT3x6AeUD-Q",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 3
-  },
-  {
-    "name": "Terre de glisse",
-    "handle": "@Terredeglisse",
-    "channel_id": "UCIPBVQjc34W4ckw-OrurVjA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-06-22",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "THEM Skates",
-    "handle": "@Themskates",
-    "channel_id": "UC1DchZewLaVQUwXD6XQ41Lw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-05",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 5
-  },
-  {
-    "name": "Thisissoul",
-    "handle": "@thisissoul",
-    "channel_id": "UCRlkUjI5wNs9kKOcUHZmGbg",
-    "default_category": "aggressive",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Tom Moyse",
-    "handle": "@TomMoyse",
-    "channel_id": "UCJ5bLzs98OAm3sqw3LjiprA",
-    "default_category": "aggressive",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Travis Rhodes",
-    "handle": "@travisrhodes1989",
-    "channel_id": "UCyYhTucqtq5yC7ayyY6uSXw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "TUSK OFFICIAL",
-    "handle": "@tuskofficial_atl",
-    "channel_id": "UCmmjHrTARaHhzBLj_Dolv6w",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-26",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "UNATHI TRIBE",
-    "handle": "@UNATHITRIBE",
-    "channel_id": "UC4VDk15d0oi_fxgene1y0Bg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Undercover Wheels",
-    "handle": "@UndercoverWheels",
-    "channel_id": "UC0jgal54r9HddjaZTRRHtEw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Unlabelled Girls",
-    "handle": "@unlabelledgirls",
-    "channel_id": "UC1kgIHFXVZ7u2aEqhhDcJBQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "USD Skates",
-    "handle": "@usdskatesofficial",
-    "channel_id": "UCQKRv2JavNQWqKWTDZpFeug",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 4
-  },
-  {
-    "name": "Vankovtun",
-    "handle": "@vankovtun",
-    "channel_id": "UC6KBtUqT28b3d2ToPQ9-cMA",
-    "default_category": "aggressive",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "versclub",
-    "handle": "@Shintaro_Nakayama",
-    "channel_id": "UCqB-_NI6QO6kM-spL6UrhJg",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-01-12",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "VICE Sports",
-    "handle": "@VICESports",
-    "channel_id": "UC8C8WuWSsFjWFaTHcUQeQxA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-07-08",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 1
-  },
-  {
-    "name": "Wheel Scene",
-    "handle": "@wheelsceneblading",
-    "channel_id": "UCdANhut0Idrqrf-QbbQno9Q",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2026-02-02",
-    "first_seen": "2026-11-18",
-    "videos_referenced": 2
-  },
-  {
-    "name": "Winterclash",
-    "handle": "@winterclash_official",
-    "channel_id": "UCf5jRf3CSi6ANPj_e93GKpg",
-    "default_category": "contest",
-    "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Wizard Skates",
-    "handle": "@wizardskating",
-    "channel_id": "UCiwUpLaBVzm7fktnvN3r-VA",
-    "default_category": "wizard",
-    "first_referenced_by": "in channels.json since site launch",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Flow Skate",
-    "handle": "@FlowSkate",
-    "channel_id": "UCUsSCs1s8a4UKmQ0KPQ2ShQ",
-    "default_category": "urban",
-    "first_referenced_by": "Canadian sources research 2026-11-19, added at Troy's request (formerly Shop Task, Shaun Unwin, Calgary)",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "CJ Wellsmore",
-    "handle": "@CJWellsmore",
-    "channel_id": "UCT4wQEc__FqtCOIvuWOLEqA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Added 2026-11-19 at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Plastic Pushers",
-    "handle": "@PlasticPushers",
-    "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Borklyn Zoo",
-    "handle": "@BorklynZoo",
-    "channel_id": "UCnI-UtGPH3cOn4j7sdc8voA",
-    "default_category": "aggressive",
-    "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Jo Zenk",
-    "handle": "@jozenk",
-    "channel_id": "UC9FKEIseZYSciqXY-0FFWag",
-    "default_category": "aggressive",
-    "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Blading Spain",
-    "handle": "@BladingSpain",
-    "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
-    "default_category": "aggressive",
-    "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Sven Boekhorst",
-    "handle": "",
-    "channel_id": "UCmvgCTI2_GyciW3TCCBdAPw",
-    "default_category": "aggressive",
-    "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Flying Eagle Skates",
-    "handle": "@FlyingEagleSkates",
-    "channel_id": "UCL4rW_mq8WISalKX2__HukA",
-    "default_category": "aggressive",
-    "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
-    "first_seen": "2026-11-19",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Ant Medina",
-    "handle": "@candy_blading",
-    "channel_id": "UC6uCyDNT-heLt7HTuBsOExQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-07-10",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Blank Rolling Products",
-    "handle": "@blankrollingproducts597",
-    "channel_id": "UCvlWEWhctjaOawbUbrRlhoA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-01-16",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "BONG LEACH",
-    "handle": "@_BONGLEACH",
-    "channel_id": "UCO9NGlkw2naIUn-ZCpx62iQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-07-24",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "EXPRESS YOUTUBE",
-    "handle": "@express.youtube.channel",
-    "channel_id": "UCMKzX5e98bUQBJ2mfhehrPw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-04-03",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "FANTOM MEDIA",
-    "handle": "@SKATEFANTOM",
-    "channel_id": "UCQmH2_qp4GYR1wHr8GSUVvA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-07-10",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Furtius VLC",
-    "handle": "@furtiusvlc7221",
-    "channel_id": "UCa9d7A_bs2AcPceow9Td2aw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-03-20",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Gawds Brand",
-    "handle": "@GawdsBrand",
-    "channel_id": "UCF7_fwZ2jT5JUyh5sMEg8xQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2024-01-08",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "GoatsBladeClub",
-    "handle": "@goatsbladeclub",
-    "channel_id": "UCcTzTiJmYSj5mtq63WSwItA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2024-07-08",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Grindhoven",
-    "handle": "@Grindhoven",
-    "channel_id": "UCOgjLGCCRplVdWkW-WftnSw",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2024-04-15",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Hermanos film",
-    "handle": "@hermanosfilm",
-    "channel_id": "UCednSaVQuZEjJ_H-0fYf5PA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-05-08",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "HoodPandaTV",
-    "handle": "@hoodpanda",
-    "channel_id": "UCUhsnX5zgjSwcpJrzxOjI5A",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2024-10-21",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "jumbo",
-    "handle": "@jumboblading",
-    "channel_id": "UC-D22eCj_DaIgwIwQ6CgAMQ",
-    "default_category": "vlogs",
-    "first_referenced_by": "This Week in Blade 2023-10-16",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Red Eye Wheel Co.",
-    "handle": "@redeyewheels",
-    "channel_id": "UCglHdtS4kffMtLBp6cG-utQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2024-07-22",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Ryan Gillett",
-    "handle": "@ryanroller",
-    "channel_id": "UC90vX5k1kOZbOTOvfhl7H_Q",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-03-20",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Source Code",
-    "handle": "@SourceCodeAI",
-    "channel_id": "UC-Zh0wTcvuSqExMwHEYaz6Q",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2024-02-05",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "tallboyz",
-    "handle": "@tallboyz9336",
-    "channel_id": "UCPEBo4TAVqSinh1qhoAnhSA",
-    "default_category": "aggressive",
-    "first_referenced_by": "This Week in Blade 2023-06-26",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "I Roll NY",
-    "handle": "@irollny",
-    "channel_id": "UCFO21aECd1XE5ifYJYTbsvQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-10-13",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "TheBoatMag",
-    "handle": "@theboatmag",
-    "channel_id": "UC6j7uAJ6lA0tU5_GqPGb9aw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-04-10",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "name productions",
-    "handle": "@name.productions",
-    "channel_id": "UCNhcXP4MFeE85VMNwQrygXw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2023-07-09",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Capital Rollas",
-    "handle": "@capitalrollas",
-    "channel_id": "UCc1fTOPbYKKC-0XOB3jNN_Q",
-    "default_category": "aggressive",
-    "first_referenced_by": "Spotty Dog (Tom Moyse) 2024-08",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Premium Rolling",
-    "handle": "@premiumrolling",
-    "channel_id": "UCWcFD9jPqQzAXLg4gu7X1Ag",
-    "default_category": "movies",
-    "first_referenced_by": "Rollernews 2025-01-27",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Watermelon Roll TV",
-    "handle": "@WatermelonRollTV",
-    "channel_id": "UCMnnju8WgIj5pNtmpxJhiPQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2026-02-16",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Official Sunday Brunch",
-    "handle": "@OfficialSundayBrunch",
-    "channel_id": "UCLMpX86mFvNlV2XkMLKKVUw",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2025-11-26",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Colorins Productions",
-    "handle": "@franciscobanaclocha5811",
-    "channel_id": "UCoug8Lb4fm3YRLrY82lhpCg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2026-01-06",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "SyeahSkate",
-    "handle": "@syeahskate",
-    "channel_id": "UCGA6R5B6RDa-uC3fdiydv5A",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2025-03-22",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Hadrien Bastouil",
-    "handle": "@hadrienbastouil",
-    "channel_id": "UCh-mEC2Z6iFXlPa5gzkEhGA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2025-11-11",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "MVMNT CREW",
-    "handle": "@MVMNTCREW",
-    "channel_id": "UCbyKNQvCsxu2scI5CyCNeOQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2025-07-09",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Vollkornblading",
-    "handle": "@vollkornblading",
-    "channel_id": "UCLFI3u3EppKiiicODVY-bdQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2025-06-12",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Jeremy Soderburg",
-    "handle": "@Soderburg_official",
-    "channel_id": "UCGJWD-NQ4J5mIYqB7oUA4wA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Rollernews 2025-10-22",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "La Roulette",
-    "handle": "@laroulette2015",
-    "channel_id": "UCyaPQ4xfnG8BhaEQVHII05w",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Parallel Projects",
-    "handle": "@parallel_projects",
-    "channel_id": "UCUJRzhmLLjWTIdbmaDv2MEA",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Andrew Kazlauskas",
-    "handle": "@lauskinit",
-    "channel_id": "UC8IYJtIZt_2s1-gpuDOHvFg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "L.O.W Academy",
-    "handle": "@LOWSkateAcademyDK",
-    "channel_id": "UCW1q4ScadA2l9wn3cVmoj4g",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
-    "first_seen": "2026-11-20",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Today On Inline",
-    "handle": "@TodayOnInline",
-    "channel_id": "UCk2fMjeqAQK_GtS7aSND1_A",
-    "default_category": "podcasts",
-    "first_referenced_by": "Troy direct request; added 2026-11-22",
-    "first_seen": "2026-11-22",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Endless Blading Co.",
-    "handle": "@endlessblading",
-    "channel_id": "UCN2Q-f_-bPODas1N92VItHQ",
-    "default_category": "podcasts",
-    "first_referenced_by": "Troy direct request; added 2026-11-22",
-    "first_seen": "2026-11-22",
-    "videos_referenced": 0
-  },
-  {
-    "name": "BLADING on The Brain",
-    "handle": "@BladingOnTheBrain",
-    "channel_id": "UCY_6h0L8kv3xhEOJXprIXhg",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy direct request; added 2026-11-23",
-    "first_seen": "2026-11-23",
-    "videos_referenced": 0
-  },
-  {
-    "name": "Jan Welch",
-    "handle": "@JanWelch",
-    "channel_id": "UCvWxxgQZzioPIxLfDpHCWsQ",
-    "default_category": "aggressive",
-    "first_referenced_by": "Troy direct request; added 2026-11-23",
-    "first_seen": "2026-11-23",
-    "videos_referenced": 0
-  },
-  {
-    "name": "NISSTV",
-    "handle": "@NissTV8",
-    "channel_id": "UC0wgDtL4-zaWUfih0IRj1DQ",
-    "default_category": "contest",
-    "first_referenced_by": "Troy direct request; added 2026-11-23",
-    "first_seen": "2026-11-23",
-    "videos_referenced": 0
-  }
+ {
+  "name": "Angled Souls",
+  "handle": "@angledsouls",
+  "channel_id": "UCFKjJzOPk-Ggw4imAaEdy4g",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "bacemint",
+  "handle": "@bacemint",
+  "channel_id": "UCItK3eiQK4TBXrgODyRgcjw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy direct request 2026-11-18",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 6
+ },
+ {
+  "name": "Back to Blading",
+  "handle": "@backtoblading",
+  "channel_id": "UCWuWxe37l9_cqgHFwtICixg",
+  "default_category": "aggressive",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Bill Stoppard",
+  "handle": "@billstoppard",
+  "channel_id": "UCp0VcHDRMfof2wCod5vF6rQ",
+  "default_category": "urban",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "BINY",
+  "handle": "@BINY_Channel",
+  "channel_id": "UCQhs1oE375c-OlqZGX1EN_A",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Bodega Boys NYC",
+  "handle": "@BodegaBoysNYC",
+  "channel_id": "UC-Npvp3omJGSjUCr1kmncIQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-05-15",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Brisbane City Skate",
+  "handle": "@BrisbaneCitySkate",
+  "channel_id": "UC11g5Nlag47inKA2eliwmxA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-04-20",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Burza Torden",
+  "handle": "@burzatorden",
+  "channel_id": "UCRzd5SM2jNcSSzkpzxB2Hiw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-09",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "BUTTER TV",
+  "handle": "@BUTTERTV",
+  "channel_id": "UCow2WwGflulBal7grfhlo7A",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Cody Lampman",
+  "handle": "@codydavidlampman",
+  "channel_id": "UCZ9FKBOG2WSs6Gns8UQu9pA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Contempoline",
+  "handle": "@Contempoline",
+  "channel_id": "UClbdLNIymQiJKgUvbtYELZg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-12-09",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Cougar Skates",
+  "handle": "@CougarSkates-m7g",
+  "channel_id": "UC6D5V5K05-yRUKWKG1gOSIg",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-03-09",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Create Originals",
+  "handle": "@createoriginals",
+  "channel_id": "UCiqzCbmQrx_lRYdalfWW67g",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-11-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Daniel Scarano",
+  "handle": "@Daniel_Scarano",
+  "channel_id": "UCbrnYRhdHografXStcEbE-w",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Danny Malm",
+  "handle": "@freak4thestreets",
+  "channel_id": "UCcA10p9MYKtVSFRNTiZz0qw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-06-30",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "DEAD.wheels",
+  "handle": "@DEADwheels",
+  "channel_id": "UCMWhPFS6LhuBi3xa11LYwGw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-26",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Dream Urethane",
+  "handle": "@dreamurethane",
+  "channel_id": "UCsH4wmFLnIirAmS2mAPIl1A",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-26",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "DynoVfr",
+  "handle": "@dynovfr",
+  "channel_id": "UCneQp1A5dAwAH0hAnY_kTdg",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Echo Skates",
+  "handle": "@echoskatesofficial",
+  "channel_id": "UCcPta_VvXg6r7MX0cY7FbQw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Faction Skate Company",
+  "handle": "@factionskatecompany4016",
+  "channel_id": "UCsUg8hiIWzij7GqWmXpfCxg",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-07-06",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "feet blading",
+  "handle": "@feetblading",
+  "channel_id": "UCusSgfFoGO3eUkTNCQV8d4g",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "FR Skates",
+  "handle": "@FRSkates",
+  "channel_id": "UCCSM4nJac_YqW6l9uNdL35g",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-08-24",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Full Frame Productions",
+  "handle": "@fullframepro",
+  "channel_id": "UC12ytgWUFLic6bOF_LWyA3A",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Get Rollin",
+  "handle": "@getrollin",
+  "channel_id": "UCqDVltg2On3EWdJsGVIl8nw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy request 2026-11-18",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Ghetto Community",
+  "handle": "@Ghettocommunity1",
+  "channel_id": "UCfRYRYAYeP1T9gkb20cYAcQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-06",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Hawke Trackler",
+  "handle": "@HawkeTrackler",
+  "channel_id": "UC3GqSMBn9NC2iBQvHOB9eXA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Hedonskate",
+  "handle": "@hedonskate",
+  "channel_id": "UCJVnIhBMc38HY1AApfvvQiQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "HJJ",
+  "handle": "@HJJallday",
+  "channel_id": "UCjgEZunp4ueKYqr93PyWxgw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-03-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Hyper Mike",
+  "handle": "@HyperMike",
+  "channel_id": "UC6TciqjkUg8pdoi2zljkxIg",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Inferno Skate",
+  "handle": "@Inferno_Skate",
+  "channel_id": "UCKhiamCHH3febHhiYRrNq8g",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-09",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "IQON BRAND",
+  "handle": "@IQONBRAND",
+  "channel_id": "UCNEwCqBdu2L3JfSXbNhPgZw",
+  "default_category": "urban",
+  "first_referenced_by": "This Week in Blade 2026-07-20",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Jonas Hansson",
+  "handle": "@BONEJONAS",
+  "channel_id": "UC6JvzGXdfcUU_w84T8c3GFw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Jordan Williams",
+  "handle": "@whatswrong_withme",
+  "channel_id": "UCn63T3znFYTPHRScjWePHCg",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-05",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Julian Bah",
+  "handle": "@julianbah",
+  "channel_id": "UCpTlBL4Q6djTey4uDBEvRIg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Jump Street Podcast",
+  "handle": "@jumpstreetpodcast",
+  "channel_id": "UCHQQx7hhssSLJl1UGrh_iiw",
+  "default_category": "podcasts",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Kizer Frames",
+  "handle": "@kizerframes",
+  "channel_id": "UCu_joyJOX-daVxYFydIXVuw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "krispiess",
+  "handle": "@krispiess",
+  "channel_id": "UCdeCrclssdxhCd8eENfbtuQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-16",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Magic Boots",
+  "handle": "@MagicBootsTV",
+  "channel_id": "UCvj8296fIKXH0dz8D6nyMig",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-06-30",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Mesmer Skate Brand",
+  "handle": "@mesmerskatebrand7752",
+  "channel_id": "UChIug8O_HC-WKFXCnpZKw9g",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "MFT",
+  "handle": "@mft225",
+  "channel_id": "UCBfyZmcXH6om7Ykqb2-eCsA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-11-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Moonshine UHMW",
+  "handle": "@MoonshineUHMW",
+  "channel_id": "UCzwyucj22NfHTqZgaG-Gx8w",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Mushroom Blading",
+  "handle": "@MushroomBlading",
+  "channel_id": "UCGTDZcpOPYLYfUAGz4YdpXg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21; confirmed as Canadian source (Brattey crew, Kamloops BC) 2026-11-19 at Troy's request",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Orange Wheel Company",
+  "handle": "@OrangeWheelCompany",
+  "channel_id": "UCbyulMBmwbzr_RqirBeFQbQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 3
+ },
+ {
+  "name": "Pablo Porta",
+  "handle": "@pabloporta9635",
+  "channel_id": "UC7eGdbBf8bmCvDSU2dd6BhQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-11-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Peoples Studio",
+  "handle": "@peoplesstudio",
+  "channel_id": "UC6ee9oeaNJUY14n7ZAB7X_w",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-04-20",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Per Diems",
+  "handle": "@PerDiems",
+  "channel_id": "UC_LyDYHxBsfCrvWviYLroLA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Powerslide",
+  "handle": "@powerslideinlineskates",
+  "channel_id": "UCWmHFUqLLruJrfR5HpkbkmA",
+  "default_category": "urban",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Razors Skate Co.",
+  "handle": "@RazorsSkateCompany",
+  "channel_id": "UCqY0DV4i2sOfLnyJXikETAQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-12",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 7
+ },
+ {
+  "name": "Ricardo Lino",
+  "handle": "@ricardolino",
+  "channel_id": "UC_cMnM6u3xJ3yeW1jzIHgaQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Rob Kellett",
+  "handle": "@RobKellett",
+  "channel_id": "UC_Yi-HfRE0DUXpqe2tNwuzA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 6
+ },
+ {
+  "name": "ROBBIE PITTS",
+  "handle": "@ROBBIEPITTS",
+  "channel_id": "UCHx2p-8tTtTDtSJyOQIkOOA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Roces",
+  "handle": "@Roces1952",
+  "channel_id": "UCMyl2icbyBIggfoHoJLsmog",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-05-04",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 3
+ },
+ {
+  "name": "Rollerblade",
+  "handle": "@authenticrollerblade",
+  "channel_id": "UCug6hrTtWQxoVKSv8k8ALQg",
+  "default_category": "urban",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "ROLLERBLADING IS STILL FUN",
+  "handle": "@ROLLERBLADINGISSTILLFUN",
+  "channel_id": "UCDv_bQeVwdPykjQZ3TaiBrw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "RollerNews",
+  "handle": "@rollernews",
+  "channel_id": "UC-Neqno_omjnPxjDNJ2O6aA",
+  "default_category": "aggressive",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Sean G.",
+  "handle": "@seang.6901",
+  "channel_id": "UCCWCmz57P8-LrvWJUOjRIVQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-11-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Shred City Skates",
+  "handle": "@ShredCitySkatesKelvW",
+  "channel_id": "UCYm8DuNofGcAVGBsYJWGs3w",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Signature Series",
+  "handle": "@SignatureSeries",
+  "channel_id": "UCghezqxibnd-HhkggSgu6VA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "SMCcom",
+  "handle": "@SMC-kr",
+  "channel_id": "UCu_CQoGQcWuJGMhPLnywPxA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-03",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Spook Wackadoo",
+  "handle": "@spookwackadoo",
+  "channel_id": "UCErUIbVrMwbco7ah6G-XOiQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-09-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Standard Skate Co",
+  "handle": "@StandardSkateCo",
+  "channel_id": "UCo1HbgTeTfncgT3x6AeUD-Q",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 3
+ },
+ {
+  "name": "Terre de glisse",
+  "handle": "@Terredeglisse",
+  "channel_id": "UCIPBVQjc34W4ckw-OrurVjA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-06-22",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "THEM Skates",
+  "handle": "@Themskates",
+  "channel_id": "UC1DchZewLaVQUwXD6XQ41Lw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-05",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 5
+ },
+ {
+  "name": "Thisissoul",
+  "handle": "@thisissoul",
+  "channel_id": "UCRlkUjI5wNs9kKOcUHZmGbg",
+  "default_category": "aggressive",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Tom Moyse",
+  "handle": "@TomMoyse",
+  "channel_id": "UCJ5bLzs98OAm3sqw3LjiprA",
+  "default_category": "aggressive",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Travis Rhodes",
+  "handle": "@travisrhodes1989",
+  "channel_id": "UCyYhTucqtq5yC7ayyY6uSXw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "TUSK OFFICIAL",
+  "handle": "@tuskofficial_atl",
+  "channel_id": "UCmmjHrTARaHhzBLj_Dolv6w",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-26",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "UNATHI TRIBE",
+  "handle": "@UNATHITRIBE",
+  "channel_id": "UC4VDk15d0oi_fxgene1y0Bg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-11-13",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Undercover Wheels",
+  "handle": "@UndercoverWheels",
+  "channel_id": "UC0jgal54r9HddjaZTRRHtEw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Unlabelled Girls",
+  "handle": "@unlabelledgirls",
+  "channel_id": "UC1kgIHFXVZ7u2aEqhhDcJBQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "USD Skates",
+  "handle": "@usdskatesofficial",
+  "channel_id": "UCQKRv2JavNQWqKWTDZpFeug",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-11-21",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 4
+ },
+ {
+  "name": "Vankovtun",
+  "handle": "@vankovtun",
+  "channel_id": "UC6KBtUqT28b3d2ToPQ9-cMA",
+  "default_category": "aggressive",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "versclub",
+  "handle": "@Shintaro_Nakayama",
+  "channel_id": "UCqB-_NI6QO6kM-spL6UrhJg",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-01-12",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "VICE Sports",
+  "handle": "@VICESports",
+  "channel_id": "UC8C8WuWSsFjWFaTHcUQeQxA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2026-07-08",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 1
+ },
+ {
+  "name": "Wheel Scene",
+  "handle": "@wheelsceneblading",
+  "channel_id": "UCdANhut0Idrqrf-QbbQno9Q",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2026-02-02",
+  "first_seen": "2026-11-18",
+  "videos_referenced": 2
+ },
+ {
+  "name": "Winterclash",
+  "handle": "@winterclash_official",
+  "channel_id": "UCf5jRf3CSi6ANPj_e93GKpg",
+  "default_category": "contest",
+  "first_referenced_by": "sources research 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Wizard Skates",
+  "handle": "@wizardskating",
+  "channel_id": "UCiwUpLaBVzm7fktnvN3r-VA",
+  "default_category": "wizard",
+  "first_referenced_by": "in channels.json since site launch",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Flow Skate",
+  "handle": "@FlowSkate",
+  "channel_id": "UCUsSCs1s8a4UKmQ0KPQ2ShQ",
+  "default_category": "urban",
+  "first_referenced_by": "Canadian sources research 2026-11-19, added at Troy's request (formerly Shop Task, Shaun Unwin, Calgary)",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "CJ Wellsmore",
+  "handle": "@CJWellsmore",
+  "channel_id": "UCT4wQEc__FqtCOIvuWOLEqA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Added 2026-11-19 at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Plastic Pushers",
+  "handle": "@PlasticPushers",
+  "channel_id": "UCz6tBAOechEd914m7lDzAbQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Borklyn Zoo",
+  "handle": "@BorklynZoo",
+  "channel_id": "UCnI-UtGPH3cOn4j7sdc8voA",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Jo Zenk",
+  "handle": "@jozenk",
+  "channel_id": "UC9FKEIseZYSciqXY-0FFWag",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Blading Spain",
+  "handle": "@BladingSpain",
+  "channel_id": "UCBJVs1k48d1-BIo1lPOKHzw",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Sven Boekhorst",
+  "handle": "",
+  "channel_id": "UCmvgCTI2_GyciW3TCCBdAPw",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Flying Eagle Skates",
+  "handle": "@FlyingEagleSkates",
+  "channel_id": "UCL4rW_mq8WISalKX2__HukA",
+  "default_category": "aggressive",
+  "first_referenced_by": "YouTube-algorithm discovery 2026-11-19, added at Troy's request",
+  "first_seen": "2026-11-19",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Ant Medina",
+  "handle": "@candy_blading",
+  "channel_id": "UC6uCyDNT-heLt7HTuBsOExQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-07-10",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Blank Rolling Products",
+  "handle": "@blankrollingproducts597",
+  "channel_id": "UCvlWEWhctjaOawbUbrRlhoA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-01-16",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "BONG LEACH",
+  "handle": "@_BONGLEACH",
+  "channel_id": "UCO9NGlkw2naIUn-ZCpx62iQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-07-24",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "EXPRESS YOUTUBE",
+  "handle": "@express.youtube.channel",
+  "channel_id": "UCMKzX5e98bUQBJ2mfhehrPw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-04-03",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "FANTOM MEDIA",
+  "handle": "@SKATEFANTOM",
+  "channel_id": "UCQmH2_qp4GYR1wHr8GSUVvA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-07-10",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Furtius VLC",
+  "handle": "@furtiusvlc7221",
+  "channel_id": "UCa9d7A_bs2AcPceow9Td2aw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-03-20",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Gawds Brand",
+  "handle": "@GawdsBrand",
+  "channel_id": "UCF7_fwZ2jT5JUyh5sMEg8xQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2024-01-08",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "GoatsBladeClub",
+  "handle": "@goatsbladeclub",
+  "channel_id": "UCcTzTiJmYSj5mtq63WSwItA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2024-07-08",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Grindhoven",
+  "handle": "@Grindhoven",
+  "channel_id": "UCOgjLGCCRplVdWkW-WftnSw",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2024-04-15",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Hermanos film",
+  "handle": "@hermanosfilm",
+  "channel_id": "UCednSaVQuZEjJ_H-0fYf5PA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-05-08",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "HoodPandaTV",
+  "handle": "@hoodpanda",
+  "channel_id": "UCUhsnX5zgjSwcpJrzxOjI5A",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2024-10-21",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "jumbo",
+  "handle": "@jumboblading",
+  "channel_id": "UC-D22eCj_DaIgwIwQ6CgAMQ",
+  "default_category": "vlogs",
+  "first_referenced_by": "This Week in Blade 2023-10-16",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Red Eye Wheel Co.",
+  "handle": "@redeyewheels",
+  "channel_id": "UCglHdtS4kffMtLBp6cG-utQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2024-07-22",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Ryan Gillett",
+  "handle": "@ryanroller",
+  "channel_id": "UC90vX5k1kOZbOTOvfhl7H_Q",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-03-20",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Source Code",
+  "handle": "@SourceCodeAI",
+  "channel_id": "UC-Zh0wTcvuSqExMwHEYaz6Q",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2024-02-05",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "tallboyz",
+  "handle": "@tallboyz9336",
+  "channel_id": "UCPEBo4TAVqSinh1qhoAnhSA",
+  "default_category": "aggressive",
+  "first_referenced_by": "This Week in Blade 2023-06-26",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "I Roll NY",
+  "handle": "@irollny",
+  "channel_id": "UCFO21aECd1XE5ifYJYTbsvQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-10-13",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "TheBoatMag",
+  "handle": "@theboatmag",
+  "channel_id": "UC6j7uAJ6lA0tU5_GqPGb9aw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2025-04-10",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "name productions",
+  "handle": "@name.productions",
+  "channel_id": "UCNhcXP4MFeE85VMNwQrygXw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2023-07-09",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Capital Rollas",
+  "handle": "@capitalrollas",
+  "channel_id": "UCc1fTOPbYKKC-0XOB3jNN_Q",
+  "default_category": "aggressive",
+  "first_referenced_by": "Spotty Dog (Tom Moyse) 2024-08",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Premium Rolling",
+  "handle": "@premiumrolling",
+  "channel_id": "UCWcFD9jPqQzAXLg4gu7X1Ag",
+  "default_category": "movies",
+  "first_referenced_by": "Rollernews 2025-01-27",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Watermelon Roll TV",
+  "handle": "@WatermelonRollTV",
+  "channel_id": "UCMnnju8WgIj5pNtmpxJhiPQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2026-02-16",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Official Sunday Brunch",
+  "handle": "@OfficialSundayBrunch",
+  "channel_id": "UCLMpX86mFvNlV2XkMLKKVUw",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2025-11-26",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Colorins Productions",
+  "handle": "@franciscobanaclocha5811",
+  "channel_id": "UCoug8Lb4fm3YRLrY82lhpCg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2026-01-06",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "SyeahSkate",
+  "handle": "@syeahskate",
+  "channel_id": "UCGA6R5B6RDa-uC3fdiydv5A",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2025-03-22",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Hadrien Bastouil",
+  "handle": "@hadrienbastouil",
+  "channel_id": "UCh-mEC2Z6iFXlPa5gzkEhGA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2025-11-11",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "MVMNT CREW",
+  "handle": "@MVMNTCREW",
+  "channel_id": "UCbyKNQvCsxu2scI5CyCNeOQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2025-07-09",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Vollkornblading",
+  "handle": "@vollkornblading",
+  "channel_id": "UCLFI3u3EppKiiicODVY-bdQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2025-06-12",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Jeremy Soderburg",
+  "handle": "@Soderburg_official",
+  "channel_id": "UCGJWD-NQ4J5mIYqB7oUA4wA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Rollernews 2025-10-22",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "La Roulette",
+  "handle": "@laroulette2015",
+  "channel_id": "UCyaPQ4xfnG8BhaEQVHII05w",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Parallel Projects",
+  "handle": "@parallel_projects",
+  "channel_id": "UCUJRzhmLLjWTIdbmaDv2MEA",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Andrew Kazlauskas",
+  "handle": "@lauskinit",
+  "channel_id": "UC8IYJtIZt_2s1-gpuDOHvFg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "L.O.W Academy",
+  "handle": "@LOWSkateAcademyDK",
+  "channel_id": "UCW1q4ScadA2l9wn3cVmoj4g",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy subscribed on @BladeFlixTV; added 2026-11-20",
+  "first_seen": "2026-11-20",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Today On Inline",
+  "handle": "@TodayOnInline",
+  "channel_id": "UCk2fMjeqAQK_GtS7aSND1_A",
+  "default_category": "podcasts",
+  "first_referenced_by": "Troy direct request; added 2026-11-22",
+  "first_seen": "2026-11-22",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Endless Blading Co.",
+  "handle": "@endlessblading",
+  "channel_id": "UCN2Q-f_-bPODas1N92VItHQ",
+  "default_category": "podcasts",
+  "first_referenced_by": "Troy direct request; added 2026-11-22",
+  "first_seen": "2026-11-22",
+  "videos_referenced": 0
+ },
+ {
+  "name": "BLADING on The Brain",
+  "handle": "@BladingOnTheBrain",
+  "channel_id": "UCY_6h0L8kv3xhEOJXprIXhg",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy direct request; added 2026-11-23",
+  "first_seen": "2026-11-23",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Jan Welch",
+  "handle": "@JanWelch",
+  "channel_id": "UCvWxxgQZzioPIxLfDpHCWsQ",
+  "default_category": "aggressive",
+  "first_referenced_by": "Troy direct request; added 2026-11-23",
+  "first_seen": "2026-11-23",
+  "videos_referenced": 0
+ },
+ {
+  "name": "NISSTV",
+  "handle": "@NissTV8",
+  "channel_id": "UC0wgDtL4-zaWUfih0IRj1DQ",
+  "default_category": "contest",
+  "first_referenced_by": "Troy direct request; added 2026-11-23",
+  "first_seen": "2026-11-23",
+  "videos_referenced": 0
+ },
+ {
+  "name": "Billy Arlew",
+  "handle": "@billyarlew",
+  "channel_id": "UCywXcwE13hBcaYeleVO0fTw",
+  "default_category": "wizard",
+  "first_referenced_by": "Troy's wizard expansion order 2026-11-23 (Swivel Council, TOEJAM, Flatland Practice)",
+  "first_seen": "2026-11-23",
+  "videos_referenced": 168
+ },
+ {
+  "name": "InWheelLife",
+  "handle": "@inwheellife",
+  "channel_id": "UCi03iBDMSLm6NIbkchNBNOA",
+  "default_category": "wizard",
+  "first_referenced_by": "Troy's wizard expansion order 2026-11-23 (Swivel Edit 4 + 5 host channel)",
+  "first_seen": "2026-11-23",
+  "videos_referenced": 2
+ }
 ]
